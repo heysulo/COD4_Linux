@@ -1,0 +1,14 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\Mods/pml220_ucsc\sv_punkbuster\1\sv_maxclients\32\version\CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014\shortversion\1.7a\build\2535\sv_floodprotect\4\sv_maxRate\25000\sv_voice\0\sv_maxPing\0\sv_minPing\0\sv_hostname\UCSC Call of Duty Pub-Server\_CoD4 X Creator\Ninjaman, TheKelm @ http://iceops.in\protocol\6\sv_privateClients\0\sv_disableClientConsole\0\g_mapStartTime\Fri Jun  2 22:28:32 2017\g_gametype\war\mapname\mp_backlot\sv_pure\1\_Admin\Sulochana Kodituwakku\_Email\sulochana.456@live.com\_Location\Sri Lanka\gamename\Call of Duty 4\g_compassShowEnemies\0
+  1:00 J;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit
+  1:24 say;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit;!h
+  1:52 D;89d0489c46b1d170fcea01807b71cdda;0;axis;imsofukindunwit;;-1;world;;none;34;MOD_FALLING;none
+  2:09 Q;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit
+  2:09 P_A;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit;19;0;0;0;0;0
+  3:44 J;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit
+  8:03 D;89d0489c46b1d170fcea01807b71cdda;0;axis;imsofukindunwit;;-1;world;;none;35;MOD_FALLING;none
+  9:23 Q;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit
+  9:23 P_A;89d0489c46b1d170fcea01807b71cdda;0;imsofukindunwit;14;0;0;0;0;0
+ 15:19 ExitLevel: executed
+ 15:19 ShutdownGame:
+ 15:19 ------------------------------------------------------------

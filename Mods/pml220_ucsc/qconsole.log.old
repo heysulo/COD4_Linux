@@ -1,0 +1,2144 @@
+
+Logfile opened on Fri Jun  2 16:53:52 2017
+
+
+net_ip will be changed upon restarting.
+net_port will be changed upon restarting.
+dedicated is write protected.
+sv_master6 is read only.
+sv_master7 is read only.
+sv_maxclients is write protected.
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: ""
+
+------ Server Initialization ------
+Server: mp_backlot
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_backlot
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+----------------------
+48586 files in iwd files
+Unloaded fastfile ui_mp
+Loading fastfile mp_backlot
+Loaded zone 'mp_backlot'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+^1Error: Missing soundalias "weap_m249saw_turret_fire_plr".
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+Resolving cod4master.activision.com (IPv4)
+cod4master.activision.com resolved to 185.34.104.231:20810
+Resolving cod4master.activision.com (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving cod4master.activision.com: Name or service not known
+cod4master.activision.com has no IPv6 address.
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Resolving cod4authorize.activision.com (IPv4)
+^1Error: Sys_StringToSockaddr: Error resolving cod4authorize.activision.com: Name or service not known
+cod4authorize.activision.com has no IPv4 address.
+Resolving cod4authorize.activision.com (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving cod4authorize.activision.com: Name or service not known
+cod4authorize.activision.com has no IPv6 address.
+Couldn't resolve address: cod4authorize.activision.com
+Resolving cod4update.activision.com (IPv4)
+^1Error: Sys_StringToSockaddr: Error resolving cod4update.activision.com: Name or service not known
+cod4update.activision.com has no IPv4 address.
+Resolving cod4update.activision.com (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving cod4update.activision.com: Name or service not known
+cod4update.activision.com has no IPv6 address.
+Couldn't resolve address: cod4update.activision.com
+Resolving master.gamespy.com:28960 (IPv4)
+^1Error: Sys_StringToSockaddr: Error resolving master.gamespy.com: Name or service not known
+master.gamespy.com:28960 has no IPv4 address.
+Resolving master.gamespy.com:28960 (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving master.gamespy.com: Name or service not known
+master.gamespy.com:28960 has no IPv6 address.
+Couldn't resolve address: master.gamespy.com:28960
+Resolving master0.gamespy.com (IPv4)
+^1Error: Sys_StringToSockaddr: Error resolving master0.gamespy.com: Name or service not known
+master0.gamespy.com has no IPv4 address.
+Resolving master0.gamespy.com (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving master0.gamespy.com: Name or service not known
+master0.gamespy.com has no IPv6 address.
+Couldn't resolve address: master0.gamespy.com
+Resolving cod.iw4play.de (IPv4)
+cod.iw4play.de resolved to 72.52.4.121:20810
+Resolving cod.iw4play.de (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving cod.iw4play.de: Name or service not known
+cod.iw4play.de has no IPv6 address.
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Resolving cod4master.activision.com (IPv4)
+cod4master.activision.com resolved to 185.34.104.231:20810
+Resolving cod4master.activision.com (IPv6)
+^1Error: Sys_StringToSockaddr: Error resolving cod4master.activision.com: Name or service not known
+cod4master.activision.com has no IPv6 address.
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Resolving cod4master.iceops.in (IPv4)
+^1Error: Sys_StringToSockaddr: Error resolving cod4master.iceops.in: Name or service not known
+cod4master.iceops.in has no IPv4 address.
+Resolving cod4master.iceops.in (IPv6)
+cod4master.iceops.in resolved to [2001:41d0:8:1b2c::1]:20810
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+^5Hitch warning: 2541 msec frame time
+Client 0 connecting with 2625 challenge ping
+Going from CS_FREE to CS_CONNECTED for spamy :D num 0 guid 92a4c1203a481dec60d1b011a00f5e5c from: 123.231.120.253:36430<=>172.31.19.189:28960
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+Received packet 0 of stats data
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 50.63.136.194:28962 successfully sent
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Client 2 connecting with 50 challenge ping
+Going from CS_FREE to CS_CONNECTED for imsofukindunwit num 1 guid 89d0489c46b1d170fcea01807b71cdda from: 112.134.47.219:9661<=>172.31.19.189:28960
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+^3PunkBuster Server: New Connection (slot #1) 123.231.120.253:36430 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 12431146)
+NET_Notice: Default address selected for outgoing networkdata is 172.31.19.189:28960
+^3PunkBuster Server: New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12477920)
+Player spamy :D^7, 0 dropped: EXE_LEFTGAME
+^3PunkBuster Server: Lost Connection (slot #1) 123.231.120.253:36430 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+Say imsofukindunwit: T2w
+Rcon from 52.221.86.172:36648: status
+Rcon from 52.221.86.172:36648: say ^2UCSC ^1Bot ^7: ^8www.bigbrotherbot.net ^0(^8b3^0) ^9v1.5.0 [posix] ^9[^3Daniel^9]^3 ^2[ONLINE]
+Rcon from 52.221.86.172:36648: PB_SV_Ver
+Rcon from 52.221.86.172:36648: set g_logsync 1
+Rcon from 52.221.86.172:36648: fs_game
+Rcon from 52.221.86.172:36648: fs_basepath
+Rcon from 52.221.86.172:36648: fs_homepath
+Rcon from 52.221.86.172:36648: shortversion
+Say imsofukindunwit: !h
+Rcon from 52.221.86.172:36648: set _B3 "B3 v1.5.0 [posix]"
+Rcon from 52.221.86.172:36648: PB_SV_PList
+Say imsofukindunwit: !h
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^7^7Available commands: admins, admintest, aliases, b3, ban, banall,
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7baninfo, clear, clientinfo, die, disable, enable, find, help,
+Player imsofukindunwit^7, 1 dropped: EXE_LEFTGAME
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7kick, kickall, leveltest, list, lookup, makereg, map, maprotate,
+reconnected: 112.134.47.219:9661
+Going from CS_FREE to CS_CONNECTED for imsofukindunwit num 1 guid 89d0489c46b1d170fcea01807b71cdda from: 112.134.47.219:9661<=>172.31.19.189:28960
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7maps, mask, nextmap, notice, pause, pbbuildbans, pbss, permban,
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7poke, putgroup, rebuild, reconfig, regtest, restart, rules,
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7runas, say, scream, seen, spam, spams, spank, spankall, status,
+^3PunkBuster Server: New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16071729)
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7tempban, time, unban, ungroup, unmask, warn, warnclear,
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7warninfo, warnremove, warns, warntest, xlrhide, xlrstats,
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3>^7xlrtopstats
+Rcon from 52.221.86.172:36648: PB_SV_PList
+Say imsofukindunwit: !xlr
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^7Unrecognized command xlr
+Say imsofukindunwit: !xlrstats
+Rcon from 52.221.86.172:36648: tell 1 ^2UCSC ^1Bot ^7: ^3[pm]^7 ^3XLR Stats: ^7imsofukindunwit^7 ^7: K ^20 ^7D ^30 ^7TK ^10 ^7Ratio ^50.00 ^7Skill ^31000.00
+Player imsofukindunwit^7, 1 dropped: EXE_LEFTGAME
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+reconnected: 112.134.47.219:9661
+Going from CS_FREE to CS_CONNECTED for imsofukindunwit num 1 guid 89d0489c46b1d170fcea01807b71cdda from: 112.134.47.219:9661<=>172.31.19.189:28960
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+^3PunkBuster Server: New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 4071476)
+Rcon from 52.221.86.172:36648: PB_SV_PList
+Rcon from 112.134.47.219:9661: g_gameType sd
+Rcon from 112.134.47.219:9661: g_gameType sd
+Say imsofukindunwit: !map crash
+Rcon from 52.221.86.172:36648: say ^2UCSC ^1Bot ^7: ^7Changing map to crash
+Rcon from 52.221.86.172:36648: map crash
+Rcon from 112.134.47.219:9661: map mp_crash
+^5Hitch warning: 1264 msec frame time
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_crash map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_crash
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_crash
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+97172 files in iwd files
+Unloaded fastfile mp_crash
+Loading fastfile mp_crash
+Loaded zone 'mp_crash'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^3PunkBuster Server: Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 0 of stats data
+Received packet 1 of stats data
+^5Hitch warning: 981 msec frame time
+Received packet 2 of stats data
+^3PunkBuster Server: New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12551662)
+Say imsofukindunwit: !h
+Say imsofukindunwit: !H
+Player imsofukindunwit^7, 1 dropped: EXE_LEFTGAME
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Client 3 connecting with 650 challenge ping
+Connection rejected from 175.157.56.116:63268 - Invalid Password
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Client 3 connecting with 550 challenge ping
+Connection rejected from 175.157.56.116:63268 - Invalid Password
+Client 3 connecting with 648 challenge ping
+Connection rejected from 175.157.56.116:63268 - Invalid Password
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+Client 3 connecting with 200 challenge ping
+Going from CS_FREE to CS_CONNECTED for San num 0 guid 401d1a1326d3972828f323e89cb9e561 from: 175.157.56.116:63268<=>172.31.19.189:28960
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 6 of stats data
+Received packet 6 of stats data
+clientDownload: 0 : begining "Mods/pml220/z_c_r.iwd"
+clientDownload: 0 : file "Mods/pml220/z_c_r.iwd" completed
+^3PunkBuster Server: New Connection (slot #1) 175.157.56.116:63268 [401d1a1326d3972828f323e89cb9e561] "San" (seq 16587560)
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+^3PunkBuster Server: [From #1 e561(VALID) San] My dx C:\Windows\SYSTEM32\d3d9.dll size=1797896 md5=949E0E42DAAD0418513B44C31A697CA5
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_bloc
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_bloc
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+121465 files in iwd files
+Unloaded fastfile mp_crash
+Loading fastfile mp_bloc
+Loaded zone 'mp_bloc'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^5Hitch warning: 1335 msec frame time
+^3PunkBuster Server: Lost Connection (slot #1) 175.157.56.116:63268 401d1a1326d3972828f323e89cb9e561(VALID) San
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 6 of stats data
+Received packet 6 of stats data
+^3PunkBuster Server: New Connection (slot #1) 175.157.56.116:63268 [401d1a1326d3972828f323e89cb9e561] "San" (seq 13601947)
+Player San^7, 0 dropped: EXE_LEFTGAME
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Lost Connection (slot #1) 175.157.56.116:63268 401d1a1326d3972828f323e89cb9e561(VALID) San
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Client 4 connecting with 100 challenge ping
+Going from CS_FREE to CS_CONNECTED for Hell num 0 guid 59949606944f21e5714c3a20301e7cbb from: 123.231.120.79:32676<=>172.31.19.189:28960
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+^3PunkBuster Server: New Connection (slot #1) 123.231.120.79:32676 [59949606944f21e5714c3a20301e7cbb] "Hell" (seq 7566685)
+Player Hell^7, 0 dropped: EXE_LEFTGAME
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Lost Connection (slot #1) 123.231.120.79:32676 59949606944f21e5714c3a20301e7cbb(VALID) Hell
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Client 5 connecting with 50 challenge ping
+Going from CS_FREE to CS_CONNECTED for [KR] RebelXX num 0 guid 6eb820eda9d919afa06e9546b445d4f9 from: 124.43.93.155:28960<=>172.31.19.189:28960
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+Received packet 0 of stats data
+Received packet 1 of stats data
+Received packet 2 of stats data
+Received packet 3 of stats data
+Received packet 4 of stats data
+Received packet 5 of stats data
+Received packet 6 of stats data
+^3PunkBuster Server: New Connection (slot #1) 124.43.93.155:28960 [6eb820eda9d919afa06e9546b445d4f9] "[KR] RebelXX" (seq 16512697)
+Player [KR] RebelXX^7, 0 dropped: EXE_LEFTGAME
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^3PunkBuster Server: Lost Connection (slot #1) 124.43.93.155:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) [KR] RebelXX
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_bog
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_bog
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+145758 files in iwd files
+Unloaded fastfile mp_bloc
+Loading fastfile mp_bog
+Loaded zone 'mp_bog'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^5Hitch warning: 1208 msec frame time
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_cargoship
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_cargoship
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+170051 files in iwd files
+Unloaded fastfile mp_bog
+Loading fastfile mp_cargoship
+Loaded zone 'mp_cargoship'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^5Hitch warning: 1237 msec frame time
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_citystreets
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_citystreets
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+194344 files in iwd files
+Unloaded fastfile mp_cargoship
+Loading fastfile mp_citystreets
+Loaded zone 'mp_citystreets'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^5Hitch warning: 1404 msec frame time
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_convoy
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_convoy
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+218637 files in iwd files
+Unloaded fastfile mp_citystreets
+Loading fastfile mp_convoy
+Loaded zone 'mp_convoy'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+^1Error: Missing soundalias "weap_m249saw_turret_fire_plr".
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^5Hitch warning: 1340 msec frame time
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_countdown
+Current language: english
+Current fs_basepath: /root/cod4
+Current fs_homepath: /root/cod4
+Current search path:
+/root/cod4/Mods/pml220/z_c_r.iwd (2 files)
+/root/cod4/Mods/pml220/pml220.iwd (47 files)
+/root/cod4/Mods/pml220
+/root/cod4/usermaps/mp_countdown
+/root/cod4/main/xiceops_00.iwd (1 files)
+/root/cod4/main/iw_13.iwd (265 files)
+/root/cod4/main/iw_12.iwd (33 files)
+/root/cod4/main/iw_11.iwd (448 files)
+/root/cod4/main/iw_10.iwd (230 files)
+/root/cod4/main/iw_09.iwd (447 files)
+/root/cod4/main/iw_08.iwd (66 files)
+/root/cod4/main/iw_07.iwd (34 files)
+/root/cod4/main/iw_06.iwd (416 files)
+/root/cod4/main/iw_05.iwd (716 files)
+/root/cod4/main/iw_04.iwd (765 files)
+/root/cod4/main/iw_03.iwd (670 files)
+/root/cod4/main/iw_02.iwd (1296 files)
+/root/cod4/main/iw_01.iwd (1456 files)
+/root/cod4/main/iw_00.iwd (1054 files)
+/root/cod4/main
+/root/cod4/main_shared
+/root/cod4/players
+/root/cod4/main/localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+/root/cod4/main/localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: qconsole.log
+handle 3: enterleave.log
+----------------------
+242930 files in iwd files
+Unloaded fastfile mp_convoy
+Loading fastfile mp_countdown
+Loaded zone 'mp_countdown'
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+fs_ignoreLocalized is cheat protected.
+-----------------------------------
+g_antilag is read only.
+-----------------------------------
+^5Hitch warning: 1243 msec frame time
+^3PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod.iw4play.de
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 72.52.4.121:20810 successfully sent
+Sending heartbeat to cod4master.activision.com
+^2Sys_SendPacket: socket 31 Conn: 172.31.19.189:28960 ==> 185.34.104.231:20810 successfully sent
+Sending heartbeat to cod4master.iceops.in
+^1Error: Sys_SendPacket: socket 27 Conn: [::1]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+^1Error: Sys_SendPacket: socket 28 Conn: [fe80::47f:dfff:fe93:11e5%eth0]:28960 ==> [2001:41d0:8:1b2c::1]:20810 failed with: Network is unreachable
+==== ShutdownGame (0) ====
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Aug  1 2011
+-----------------------------------
+==== ShutdownGame (0) ====
+------- Game Initializa

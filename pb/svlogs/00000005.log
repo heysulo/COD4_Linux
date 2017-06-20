@@ -1,0 +1,18 @@
+[06.02.2017 16:19:56] PB Log File /root/cod4/pb/svlogs/00000005.log Opened for COD4 (l)
+[06.02.2017 16:19:56] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[06.02.2017 16:19:56] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[06.02.2017 16:19:56] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[06.02.2017 16:19:56] Attempting to resolve master8.evenbalance.com
+[06.02.2017 16:19:56] Resolved to [50.62.81.163]
+[06.02.2017 16:19:56] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[06.02.2017 16:19:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:19:59] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[06.02.2017 16:20:15] New Connection (slot #1) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 15497210)
+[06.02.2017 16:22:16] [From #1 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.02.2017 16:24:37] Lost Connection (slot #1) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.02.2017 16:24:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:24:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:24:42] New Connection (slot #1) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16477264)
+[06.02.2017 16:41:57] New Connection (slot #2) 123.231.120.253:36429 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 16765462)
+[06.02.2017 16:41:57] No Master Query Sent - DNS has not yet resolved for COD41.EVENBALANCE.COM
+[06.02.2017 16:42:18] Lost Connection (slot #2) 123.231.120.253:36429 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D

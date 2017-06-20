@@ -1,0 +1,15 @@
+[06.02.2017 21:40:10] PB Log File /root/cod4/pb/svlogs/00000012.log Opened for COD4 (l)
+[06.02.2017 21:40:10] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[06.02.2017 21:40:10] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[06.02.2017 21:40:10] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[06.02.2017 21:40:10] Ignoring Non-PB Command/Setting
+[06.02.2017 21:40:10] Attempting to resolve master2.evenbalance.com
+[06.02.2017 21:40:10] Resolved to [50.62.76.68]
+[06.02.2017 21:40:10] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[06.02.2017 21:40:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 21:40:14] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[06.02.2017 21:40:29] New Connection (slot #1) 112.134.44.143:37696 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 14459415)
+[06.02.2017 21:41:07] Lost Connection (slot #1) 112.134.44.143:37696 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.02.2017 21:41:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 21:41:12] New Connection (slot #1) 112.134.44.143:37696 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 15987339)
+[06.02.2017 21:42:43] [From #1 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D

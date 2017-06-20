@@ -1,0 +1,41 @@
+[04.23.2017 09:58:04] PB Log File /root/cod4/pb/svlogs/00000002.log Opened for COD4 (l)
+[04.23.2017 09:58:04] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[04.23.2017 09:58:04] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[04.23.2017 09:58:04] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[04.23.2017 09:58:04] Attempting to resolve master1.evenbalance.com
+[04.23.2017 09:58:04] Resolved to [50.63.136.194]
+[04.23.2017 09:58:04] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[04.23.2017 09:58:06] pb_sv_GuidRelax = 7 (0 to 7)
+[04.23.2017 09:58:06] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[04.23.2017 09:59:04] New Connection (slot #1) 112.134.45.206:43078 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 11342711)
+[04.23.2017 09:59:08] RESTRICTION: imsofukindunwit (slot #1) [89d0489c46b1d170fcea01807b71cdda(VALID) 112.134.45.206:43078] Service Communication Failure: PnkBstrA.exe
+[04.23.2017 09:59:08] Kick Command Issued (RESTRICTION: Service Communication Failure: PnkBstrA.exe) for (slot#1) 112.134.45.206:43078 89d0489c46b1d170fcea01807b71cdda imsofukindunwit
+[04.23.2017 09:59:08] Lost Connection (slot #1) 112.134.45.206:43078 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[04.23.2017 09:59:43] New Connection (slot #1) 112.134.4.113:7834 [e7243a374a146967cd59e96bdfe0679c] "@X|U mAd Bro?" (seq 8251331)
+[04.23.2017 09:59:51] New Connection (slot #2) 112.135.7.64:16381 [0b6a5a7f553c1219b0786fec239d7ff4] "$i|_EnT Ki|_|_E'v'" (seq 16751865)
+[04.23.2017 10:00:04] No Master Query Sent - DNS has not yet resolved for MASTER6.EVENBALANCE.COM
+[04.23.2017 10:00:28] New Connection (slot #3) 112.134.45.206:43078 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 11099215)
+[04.23.2017 10:01:52] [From #2 7ff4(VALID) $i|_EnT Ki|_|_E'v'] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[04.23.2017 10:01:58] [From #1 679c(VALID) @X|U mAd Bro?] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[04.23.2017 10:02:31] [From #3 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[04.23.2017 10:04:35] Lost Connection (slot #3) 112.134.45.206:43078 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[04.23.2017 10:08:59] New Connection (slot #3) 112.134.45.206:42736 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16721151)
+[04.23.2017 10:11:00] [From #3 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[04.23.2017 10:12:09] Lost Connection (slot #1) 112.134.4.113:7834 e7243a374a146967cd59e96bdfe0679c(VALID) @X|U mAd Bro?
+[04.23.2017 10:12:09] Lost Connection (slot #2) 112.135.7.64:16381 0b6a5a7f553c1219b0786fec239d7ff4(VALID) $i|_EnT Ki|_|_E'v'
+[04.23.2017 10:12:09] Lost Connection (slot #3) 112.134.45.206:42736 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[04.23.2017 10:12:09] pb_sv_GuidRelax = 7 (0 to 7)
+[04.23.2017 10:12:09] pb_sv_GuidRelax = 7 (0 to 7)
+[04.23.2017 10:12:13] New Connection (slot #3) 112.134.45.206:42736 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 10947692)
+[04.23.2017 10:12:15] New Connection (slot #2) 112.135.7.64:16381 [0b6a5a7f553c1219b0786fec239d7ff4] "$i|_EnT Ki|_|_E'v'" (seq 8325809)
+[04.23.2017 10:12:15] New Connection (slot #1) 112.134.4.113:7834 [e7243a374a146967cd59e96bdfe0679c] "@X|U mAd Bro?" (seq 10471966)
+[04.23.2017 10:12:16] Lost Connection (slot #2) 112.135.7.64:16381 0b6a5a7f553c1219b0786fec239d7ff4(VALID) $i|_EnT Ki|_|_E'v'
+[04.23.2017 10:13:32] Lost Connection (slot #3) 112.134.45.206:42736 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[04.23.2017 10:13:40] Lost Connection (slot #1) 112.134.4.113:7834 e7243a374a146967cd59e96bdfe0679c(VALID) @X|U mAd Bro?
+[04.23.2017 10:21:59] New Connection (slot #3) 112.134.45.206:42736 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16735014)
+[04.23.2017 10:24:00] [From #3 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[04.23.2017 10:24:17] Lost Connection (slot #3) 112.134.45.206:42736 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[04.23.2017 10:25:54] New Connection (slot #3) 112.134.45.206:42736 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16673196)
+[04.23.2017 10:26:57] Lost Connection (slot #3) 112.134.45.206:42736 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[04.23.2017 10:32:46] New Connection (slot #3) 112.134.45.206:42736 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 15592538)
+[04.23.2017 10:34:47] [From #3 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D

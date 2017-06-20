@@ -1,0 +1,13 @@
+[06.02.2017 16:45:51] PB Log File /root/cod4/pb/svlogs/00000006.log Opened for COD4 (l)
+[06.02.2017 16:45:51] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[06.02.2017 16:45:51] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[06.02.2017 16:45:51] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[06.02.2017 16:45:51] Attempting to resolve master3.evenbalance.com
+[06.02.2017 16:45:51] Resolved to [50.62.82.210]
+[06.02.2017 16:45:51] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[06.02.2017 16:45:54] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:45:55] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[06.02.2017 16:46:09] New Connection (slot #1) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16577949)
+[06.02.2017 16:48:10] [From #1 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.02.2017 16:52:44] New Connection (slot #2) 124.43.93.155:28960 [6eb820eda9d919afa06e9546b445d4f9] "[KR] RebelXX" (seq 16227853)
+[06.02.2017 16:52:44] No Master Query Sent - DNS has not yet resolved for MASTER5.EVENBALANCE.COM

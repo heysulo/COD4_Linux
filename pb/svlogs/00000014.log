@@ -1,0 +1,1071 @@
+[06.04.2017 09:40:39] PB Log File /root/cod4/pb/svlogs/00000014.log Opened for COD4 (l)
+[06.04.2017 09:40:39] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[06.04.2017 09:40:39] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[06.04.2017 09:40:39] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[06.04.2017 09:40:39] Ignoring Non-PB Command/Setting
+[06.04.2017 09:40:39] Attempting to resolve master7.evenbalance.com
+[06.04.2017 09:40:40] Resolved to [50.62.82.210]
+[06.04.2017 09:40:40] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[06.04.2017 09:40:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 09:40:43] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[06.04.2017 09:40:49] New Connection (slot #1) 112.134.44.119:35596 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 10403412)
+[06.04.2017 09:42:15] Lost Connection (slot #1) 112.134.44.119:35596 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 09:42:15] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 09:42:15] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 09:42:19] New Connection (slot #1) 112.134.44.119:35596 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 8350716)
+[06.04.2017 09:42:50] [From #1 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.04.2017 09:43:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 09:47:22] Lost Connection (slot #1) 112.134.44.119:35596 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 09:47:27] New Connection (slot #1) 112.134.44.119:35596 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12530905)
+[06.04.2017 09:51:10] Lost Connection (slot #1) 112.134.44.119:35596 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 09:58:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 10:13:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 10:25:51] New Connection (slot #1) 112.135.2.229:11341 [e7243a374a146967cd59e96bdfe0679c] "@X|Eyeless" (seq 16629174)
+[06.04.2017 10:27:52] [From #1 679c(VALID) @X|Eyeless] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 10:29:05] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 10:30:09] New Connection (slot #2) 112.135.2.137:35155 [401d1a1326d3972828f323e89cb9e561] "Rana" (seq 8382046)
+[06.04.2017 10:30:09] No Master Query Sent - DNS has not yet resolved for MASTER5.EVENBALANCE.COM
+[06.04.2017 10:32:10] [From #2 e561(VALID) Rana] My dx C:\Windows\SYSTEM32\d3d9.dll size=1797896 md5=949E0E42DAAD0418513B44C31A697CA5
+[06.04.2017 10:38:30] VIOLATION (COMFAIL) #101: Rana (slot #2) General PB Client Authentication Failure - Reinstall PB if problem persists [401d1a1326d3972828f323e89cb9e561(VALID) 112.135.2.137:35155]
+[06.04.2017 10:38:30] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#2) 112.135.2.137:35155 401d1a1326d3972828f323e89cb9e561 Rana
+[06.04.2017 10:38:30] Lost Connection (slot #2) 112.135.2.137:35155 401d1a1326d3972828f323e89cb9e561(VALID) Rana
+[06.04.2017 10:38:32] VIOLATION (COMFAIL) #101: @X|Eyeless (slot #1) General PB Client Authentication Failure - Reinstall PB if problem persists [e7243a374a146967cd59e96bdfe0679c(VALID) 112.135.2.229:11341]
+[06.04.2017 10:38:32] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#1) 112.135.2.229:11341 e7243a374a146967cd59e96bdfe0679c @X|Eyeless
+[06.04.2017 10:38:32] Lost Connection (slot #1) 112.135.2.229:11341 e7243a374a146967cd59e96bdfe0679c(VALID) @X|Eyeless
+[06.04.2017 10:44:25] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 10:59:44] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 11:05:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 11:15:03] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 11:30:23] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 11:45:42] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 11:54:17] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 12:01:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 12:16:21] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 12:31:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 12:42:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 12:47:00] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 13:02:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 13:13:43] New Connection (slot #1) 112.135.8.78:22408 [401d1a1326d3972828f323e89cb9e561] "[ Draco ]" (seq 15951214)
+[06.04.2017 13:14:22] Lost Connection (slot #1) 112.135.8.78:22408 401d1a1326d3972828f323e89cb9e561(VALID) [ Draco ]
+[06.04.2017 13:14:22] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 13:14:31] New Connection (slot #1) 112.135.8.78:22408 [401d1a1326d3972828f323e89cb9e561] "[ Draco ]" (seq 3804520)
+[06.04.2017 13:16:01] [From #1 e561(VALID) [ Draco ]] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 13:17:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 13:19:56] Lost Connection (slot #1) 112.135.8.78:22408 401d1a1326d3972828f323e89cb9e561(VALID) [ Draco ]
+[06.04.2017 13:32:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 13:48:17] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 14:00:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 14:03:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 14:18:56] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 14:24:11] New Connection (slot #1) 123.231.120.196:29222 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 15629484)
+[06.04.2017 14:25:29] Lost Connection (slot #1) 123.231.120.196:29222 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 14:34:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 14:49:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 14:49:35] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 15:04:54] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 15:20:14] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 15:35:33] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 15:37:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 15:50:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:06:12] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:21:22] New Connection (slot #1) 123.231.111.95:36334 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 16737302)
+[06.04.2017 16:21:31] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:23:29] [From #1 73a5(VALID) Pancha27] My dx C:\Windows\SYSTEM32\d3d9.dll size=1799952 md5=4A4F18A6BEFA9D27E1C33C47DC617775
+[06.04.2017 16:25:43] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16719985)
+[06.04.2017 16:25:43] No Master Query Sent - DNS has not yet resolved for MASTER6.EVENBALANCE.COM
+[06.04.2017 16:25:49] Lost Connection (slot #1) 123.231.111.95:36334 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 16:25:49] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 16:25:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:25:54] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 10968524)
+[06.04.2017 16:26:02] New Connection (slot #1) 123.231.111.95:36334 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 11400498)
+[06.04.2017 16:28:02] [From #2 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.04.2017 16:28:57] Lost Connection (slot #1) 123.231.111.95:36334 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 16:31:19] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 11701141)
+[06.04.2017 16:33:00] New Connection (slot #1) 123.231.127.51:65407 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 16609482)
+[06.04.2017 16:33:01] New Connection (slot #3) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 16009402)
+[06.04.2017 16:33:05] New Connection (slot #4) 112.135.2.197:52984 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 8361595)
+[06.04.2017 16:33:20] [From #1 0ad3(VALID) ^3SL[^4Jayyz^3]] My dx C:\Windows\SYSTEM32\d3d9.dll size=1762304 md5=118BA3061B4040BDC17432B775F3A292
+[06.04.2017 16:33:41] Lost Connection (slot #1) 123.231.127.51:65407 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 16:33:56] Lost Connection (slot #4) 112.135.2.197:52984 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 16:33:57] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 8370951)
+[06.04.2017 16:34:17] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 16682066)
+[06.04.2017 16:34:18] New Connection (slot #4) 112.135.2.197:52984 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 7522813)
+[06.04.2017 16:35:46] [From #3 73a5(VALID) Pancha27] My dx C:\Windows\SYSTEM32\d3d9.dll size=1799952 md5=4A4F18A6BEFA9D27E1C33C47DC617775
+[06.04.2017 16:36:18] [From #6 c1ef(VALID) FalCon] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.04.2017 16:36:34] [From #4 7ff4(VALID) [ZN]SilentKille] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.04.2017 16:36:42] [From #5 d00b(VALID) |LeOnarDo||||] My dx C:\Windows\system32\d3d9.dll size=1828352 md5=6EF5F3F18413C367195F06E503AB86A6
+[06.04.2017 16:36:51] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:38:18] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 12403597)
+[06.04.2017 16:38:45] New Connection (slot #8) 112.134.16.247:28015 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 7898993)
+[06.04.2017 16:40:15] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 14331523)
+[06.04.2017 16:40:19] [From #7 1371(VALID) mines] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867160 md5=6A23068F2043726F706931D0F7867EED
+[06.04.2017 16:40:52] [From #8 a5ef(VALID) slash] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.04.2017 16:41:34] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 14413181)
+[06.04.2017 16:42:16] [From #9 4c82(VALID) picaso] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 16:43:21] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 6009753)
+[06.04.2017 16:43:34] [From #10 5667(VALID) MURDER] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 16:45:05] New Connection (slot #12) 113.59.209.30:48554 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 16007818)
+[06.04.2017 16:45:37] [From #11 e561(VALID) San] My dx C:\Windows\SYSTEM32\d3d9.dll size=1797896 md5=949E0E42DAAD0418513B44C31A697CA5
+[06.04.2017 16:45:43] No Master Query Sent - DNS has not yet resolved for MASTER8.EVENBALANCE.COM
+[06.04.2017 16:46:22] New Connection (slot #13) 112.135.8.78:22282 [401d1a1326d3972828f323e89cb9e561] "[ Draco ]" (seq 15675441)
+[06.04.2017 16:47:16] Lost Connection (slot #3) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 16:47:51] [From #12 5a0a(VALID) noob] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 16:47:58] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 15609518)
+[06.04.2017 16:48:03] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 12442336)
+[06.04.2017 16:48:23] [From #13 e561(VALID) [ Draco ]] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 16:49:44] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 16:49:44] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 16:49:44] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 16:49:44] Lost Connection (slot #4) 112.135.2.197:52984 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 16:49:44] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 16:49:44] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 16:49:44] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 16:49:44] Lost Connection (slot #8) 112.134.16.247:28015 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 16:49:44] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 16:49:44] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 16:49:44] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 16:49:44] Lost Connection (slot #12) 113.59.209.30:48554 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 16:49:44] Lost Connection (slot #13) 112.135.8.78:22282 401d1a1326d3972828f323e89cb9e561(VALID) [ Draco ]
+[06.04.2017 16:49:44] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 16:49:44] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:49:49] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12141751)
+[06.04.2017 16:49:50] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 10994424)
+[06.04.2017 16:49:50] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 8683506)
+[06.04.2017 16:49:51] New Connection (slot #12) 113.59.209.30:48554 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 11998038)
+[06.04.2017 16:49:51] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 15566530)
+[06.04.2017 16:49:51] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 12925475)
+[06.04.2017 16:49:51] New Connection (slot #8) 112.134.16.247:28015 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 15097807)
+[06.04.2017 16:49:52] New Connection (slot #13) 112.135.8.78:22282 [401d1a1326d3972828f323e89cb9e561] "[ Draco ]" (seq 16469063)
+[06.04.2017 16:49:53] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 12490621)
+[06.04.2017 16:49:53] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 16550965)
+[06.04.2017 16:49:54] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 16619343)
+[06.04.2017 16:49:54] New Connection (slot #4) 112.135.2.197:52984 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 3620004)
+[06.04.2017 16:49:54] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 15620574)
+[06.04.2017 16:49:55] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 485518)
+[06.04.2017 16:51:00] [From #14 73a5(VALID) Pancha27] My dx C:\Windows\SYSTEM32\d3d9.dll size=1799952 md5=4A4F18A6BEFA9D27E1C33C47DC617775
+[06.04.2017 16:51:04] [From #3 cf10(VALID) PR34CH3R] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1867160 md5=E731E28520E527E9EAC2049B3147D536
+[06.04.2017 16:52:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 16:53:32] Kick Command Issued (^7connection interupted, reconnect [Admin Decision]) for (slot#4) 112.135.2.197:52984 0b6a5a7f553c1219b0786fec239d7ff4 [ZN]SilentKille
+[06.04.2017 16:53:32] Lost Connection (slot #4) 112.135.2.197:52984 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 16:53:58] New Connection (slot #4) 175.157.70.105:7601 [ec0027e955439532e1c98b2e1a51e7b3] "H3llo" (seq 16748454)
+[06.04.2017 16:54:00] New Connection (slot #1) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 11749124)
+[06.04.2017 16:54:15] Lost Connection (slot #1) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 16:54:38] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 16230331)
+[06.04.2017 16:54:45] New Connection (slot #16) 112.135.3.133:38557 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 10998319)
+[06.04.2017 16:56:02] New Connection (slot #17) 112.134.2.73:35428 [9ac11d6705b2e7b0e87c1549cb764f0b] "DDD" (seq 6199457)
+[06.04.2017 16:56:13] [From #4 e7b3(VALID) H3llo] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 16:56:53] [From #16 7ff4(VALID) [ZN]SilentKille] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.04.2017 16:56:57] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 16:56:59] [From #15 d4f9(VALID) RebelXX] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 16:57:03] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 15717023)
+[06.04.2017 16:58:03] [From #17 4f0b(VALID) DDD] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 17:01:48] New Connection (slot #18) 123.231.125.59:63314 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 14546448)
+[06.04.2017 17:03:02] New Connection (slot #19) 112.134.37.25:52879 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 12275277)
+[06.04.2017 17:03:57] [From #18 5e5c(VALID) spamy :D] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 17:05:03] New Connection (slot #20) 112.134.37.53:37297 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 6802189)
+[06.04.2017 17:05:43] No Master Query Sent - DNS has not yet resolved for COD41.EVENBALANCE.COM
+[06.04.2017 17:06:23] VIOLATION (COMFAIL) #101: Insane (slot #19) General PB Client Authentication Failure - Reinstall PB if problem persists [18fa96ccf08d79ba0c3c9f651b444e0b(VALID) 112.134.37.25:52879]
+[06.04.2017 17:06:23] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#19) 112.134.37.25:52879 18fa96ccf08d79ba0c3c9f651b444e0b Insane
+[06.04.2017 17:06:23] Lost Connection (slot #19) 112.134.37.25:52879 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.04.2017 17:07:30] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:07:42] Lost Connection (slot #20) 112.134.37.53:37297 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.04.2017 17:14:11] Kick Command Issued (^7connection interupted, reconnect [Admin Decision]) for (slot#15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9 RebelXX
+[06.04.2017 17:14:11] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 17:14:21] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 12426157)
+[06.04.2017 17:16:58] Lost Connection (slot #12) 113.59.209.30:48554 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 17:17:06] [From #15 d4f9(VALID) RebelXX] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 17:17:51] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 13623815)
+[06.04.2017 17:18:23] New Connection (slot #19) 123.231.126.78:5385 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 13455565)
+[06.04.2017 17:20:06] [From #12 5a0a(VALID) noob] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 17:20:38] [From #19 f7be(VALID) Gin] My dx C:\Windows\SYSTEM32\d3d9.dll size=1762304 md5=118BA3061B4040BDC17432B775F3A292
+[06.04.2017 17:21:19] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 17:21:19] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 17:21:19] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 17:21:19] Lost Connection (slot #4) 175.157.70.105:7601 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 17:21:19] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 17:21:19] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 17:21:19] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 17:21:19] Lost Connection (slot #8) 112.134.16.247:28015 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 17:21:19] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 17:21:19] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 17:21:19] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 17:21:19] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 17:21:19] Lost Connection (slot #13) 112.135.8.78:22282 401d1a1326d3972828f323e89cb9e561(VALID) [ Draco ]
+[06.04.2017 17:21:19] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 17:21:19] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 17:21:19] Lost Connection (slot #16) 112.135.3.133:38557 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 17:21:19] Lost Connection (slot #17) 112.134.2.73:35428 9ac11d6705b2e7b0e87c1549cb764f0b(VALID) #50
+[06.04.2017 17:21:19] Lost Connection (slot #18) 123.231.125.59:63314 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.04.2017 17:21:19] Lost Connection (slot #19) 123.231.126.78:5385 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.04.2017 17:21:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:21:25] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16593495)
+[06.04.2017 17:21:26] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 10701029)
+[06.04.2017 17:21:28] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 16028200)
+[06.04.2017 17:21:28] New Connection (slot #8) 112.134.16.247:28015 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 16028200)
+[06.04.2017 17:21:28] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 12310426)
+[06.04.2017 17:21:29] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 10426896)
+[06.04.2017 17:21:29] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 14142075)
+[06.04.2017 17:21:29] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 12405745)
+[06.04.2017 17:21:30] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 14394274)
+[06.04.2017 17:21:30] New Connection (slot #16) 112.135.3.133:38557 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 15597858)
+[06.04.2017 17:21:30] New Connection (slot #17) 112.134.2.73:35428 [9ac11d6705b2e7b0e87c1549cb764f0b] "#50" (seq 15341660)
+[06.04.2017 17:21:31] New Connection (slot #19) 123.231.126.78:5385 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 12520897)
+[06.04.2017 17:21:32] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 6184882)
+[06.04.2017 17:21:32] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 6184882)
+[06.04.2017 17:21:33] New Connection (slot #4) 175.157.70.105:7601 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 12720515)
+[06.04.2017 17:21:35] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 17:21:35] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 17:21:35] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 17:21:35] Lost Connection (slot #4) 175.157.70.105:7601 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 17:21:35] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 17:21:35] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 17:21:35] Lost Connection (slot #8) 112.134.16.247:28015 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 17:21:35] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 17:21:35] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 17:21:35] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 17:21:35] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 17:21:35] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 17:21:35] Lost Connection (slot #16) 112.135.3.133:38557 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 17:21:35] Lost Connection (slot #17) 112.134.2.73:35428 9ac11d6705b2e7b0e87c1549cb764f0b(VALID) #50
+[06.04.2017 17:21:35] Lost Connection (slot #19) 123.231.126.78:5385 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.04.2017 17:21:35] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:21:40] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 11236203)
+[06.04.2017 17:21:41] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 8210760)
+[06.04.2017 17:21:41] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 8327938)
+[06.04.2017 17:21:41] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 10178548)
+[06.04.2017 17:21:42] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 15711355)
+[06.04.2017 17:21:42] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 15711355)
+[06.04.2017 17:21:42] New Connection (slot #17) 112.134.2.73:35428 [9ac11d6705b2e7b0e87c1549cb764f0b] "#50" (seq 15711355)
+[06.04.2017 17:21:42] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 14614851)
+[06.04.2017 17:21:42] New Connection (slot #16) 112.135.3.133:38557 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 14614851)
+[06.04.2017 17:21:42] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 5843348)
+[06.04.2017 17:21:43] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 9108609)
+[06.04.2017 17:21:43] New Connection (slot #8) 112.134.16.247:28015 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 4911589)
+[06.04.2017 17:21:43] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 15300815)
+[06.04.2017 17:21:43] New Connection (slot #19) 123.231.126.78:5385 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 15724235)
+[06.04.2017 17:21:46] New Connection (slot #4) 175.157.70.105:7601 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 4108668)
+[06.04.2017 17:21:57] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 14106350)
+[06.04.2017 17:22:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:22:56] New Connection (slot #18) 123.231.125.59:63314 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 12570177)
+[06.04.2017 17:23:25] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 14530640)
+[06.04.2017 17:24:14] [From #11 e561(VALID) San] My dx C:\Windows\SYSTEM32\d3d9.dll size=1797896 md5=949E0E42DAAD0418513B44C31A697CA5
+[06.04.2017 17:24:40] New Connection (slot #13) 112.134.37.2:2122 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 14490252)
+[06.04.2017 17:25:07] New Connection (slot #20) 112.134.4.35:37969 [e7243a374a146967cd59e96bdfe0679c] "@X|Eyeless" (seq 16053060)
+[06.04.2017 17:25:14] [From #18 5e5c(VALID) spamy :D] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 17:25:43] No Master Query Sent - DNS has not yet resolved for MASTER5.EVENBALANCE.COM
+[06.04.2017 17:26:03] [From #6 c1ef(VALID) FalCon] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.04.2017 17:27:08] [From #20 679c(VALID) @X|Eyeless] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 17:29:21] VIOLATION (COMFAIL) #101: Insane (slot #13) General PB Client Authentication Failure - Reinstall PB if problem persists [18fa96ccf08d79ba0c3c9f651b444e0b(VALID) 112.134.37.2:2122]
+[06.04.2017 17:29:21] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#13) 112.134.37.2:2122 18fa96ccf08d79ba0c3c9f651b444e0b Insane
+[06.04.2017 17:29:21] Lost Connection (slot #13) 112.134.37.2:2122 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.04.2017 17:30:05] New Connection (slot #13) 112.134.37.87:24403 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 5199674)
+[06.04.2017 17:32:20] [From #13 4e0b(VALID) Insane] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 17:36:19] Kick Command Issued (^7connection interupted, reconnect [Admin Decision]) for (slot#4) 175.157.70.105:7601 ec0027e955439532e1c98b2e1a51e7b3 R00T
+[06.04.2017 17:36:19] Lost Connection (slot #4) 175.157.70.105:7601 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 17:36:45] Lost Connection (slot #13) 112.134.37.87:24403 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.04.2017 17:36:58] New Connection (slot #4) 112.134.38.47:33622 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 16511539)
+[06.04.2017 17:38:09] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:39:58] VIOLATION (COMFAIL) #101: Insane (slot #4) General PB Client Authentication Failure - Reinstall PB if problem persists [18fa96ccf08d79ba0c3c9f651b444e0b(VALID) 112.134.38.47:33622]
+[06.04.2017 17:39:58] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#4) 112.134.38.47:33622 18fa96ccf08d79ba0c3c9f651b444e0b Insane
+[06.04.2017 17:39:59] Lost Connection (slot #4) 112.134.38.47:33622 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.04.2017 17:42:01] Lost Connection (slot #8) 112.134.16.247:28015 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 17:45:43] No Master Query Sent - DNS has not yet resolved for MASTER6.EVENBALANCE.COM
+[06.04.2017 17:52:54] New Connection (slot #4) 112.134.16.247:27574 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 12561963)
+[06.04.2017 17:53:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:54:55] [From #4 a5ef(VALID) slash] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.04.2017 17:55:51] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 17:55:51] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 17:55:51] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 17:55:51] Lost Connection (slot #4) 112.134.16.247:27574 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 17:55:51] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 17:55:51] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 17:55:51] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 17:55:51] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 17:55:51] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 17:55:51] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 17:55:51] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 17:55:51] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 17:55:51] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 17:55:51] Lost Connection (slot #16) 112.135.3.133:38557 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 17:55:51] Lost Connection (slot #17) 112.134.2.73:35428 9ac11d6705b2e7b0e87c1549cb764f0b(VALID) #50
+[06.04.2017 17:55:51] Lost Connection (slot #18) 123.231.125.59:63314 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.04.2017 17:55:51] Lost Connection (slot #19) 123.231.126.78:5385 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.04.2017 17:55:51] Lost Connection (slot #20) 112.134.4.35:37969 e7243a374a146967cd59e96bdfe0679c(VALID) Eyeless
+[06.04.2017 17:55:51] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:55:57] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16307691)
+[06.04.2017 17:55:58] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 8361662)
+[06.04.2017 17:55:58] New Connection (slot #17) 112.134.2.73:35428 [9ac11d6705b2e7b0e87c1549cb764f0b] "#50" (seq 8332302)
+[06.04.2017 17:55:59] New Connection (slot #4) 112.134.16.247:27574 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 15225540)
+[06.04.2017 17:55:59] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 16775449)
+[06.04.2017 17:55:59] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 8107649)
+[06.04.2017 17:55:59] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 12250432)
+[06.04.2017 17:55:59] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 4132124)
+[06.04.2017 17:55:59] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 4132124)
+[06.04.2017 17:56:00] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 14627840)
+[06.04.2017 17:56:00] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 8377613)
+[06.04.2017 17:56:00] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 8377613)
+[06.04.2017 17:56:00] New Connection (slot #16) 112.135.3.133:38557 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 8377613)
+[06.04.2017 17:56:00] New Connection (slot #19) 123.231.126.78:5385 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 16672525)
+[06.04.2017 17:56:02] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 10362519)
+[06.04.2017 17:56:03] New Connection (slot #20) 112.134.4.35:37969 [e7243a374a146967cd59e96bdfe0679c] "Eyeless" (seq 16751653)
+[06.04.2017 17:56:05] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 8330637)
+[06.04.2017 17:56:10] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 17:56:10] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 17:56:10] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 17:56:10] Lost Connection (slot #4) 112.134.16.247:27574 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 17:56:10] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 17:56:10] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 17:56:10] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 17:56:10] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 17:56:10] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 17:56:10] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 17:56:10] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 17:56:10] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 17:56:10] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 17:56:10] Lost Connection (slot #16) 112.135.3.133:38557 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 17:56:10] Lost Connection (slot #17) 112.134.2.73:35428 9ac11d6705b2e7b0e87c1549cb764f0b(VALID) #50
+[06.04.2017 17:56:10] Lost Connection (slot #19) 123.231.126.78:5385 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.04.2017 17:56:10] Lost Connection (slot #20) 112.134.4.35:37969 e7243a374a146967cd59e96bdfe0679c(VALID) Eyeless
+[06.04.2017 17:56:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 17:56:15] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 10433977)
+[06.04.2017 17:56:16] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 15190127)
+[06.04.2017 17:56:16] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 8153784)
+[06.04.2017 17:56:16] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 16113591)
+[06.04.2017 17:56:16] New Connection (slot #17) 112.134.2.73:35428 [9ac11d6705b2e7b0e87c1549cb764f0b] "#50" (seq 16113591)
+[06.04.2017 17:56:17] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 15458472)
+[06.04.2017 17:56:17] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 14619686)
+[06.04.2017 17:56:17] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 7848242)
+[06.04.2017 17:56:17] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 7848242)
+[06.04.2017 17:56:17] New Connection (slot #16) 112.135.3.133:38557 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 455089)
+[06.04.2017 17:56:17] New Connection (slot #19) 123.231.126.78:5385 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 455089)
+[06.04.2017 17:56:17] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 16581544)
+[06.04.2017 17:56:18] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 7242106)
+[06.04.2017 17:56:18] New Connection (slot #20) 112.134.4.35:37969 [e7243a374a146967cd59e96bdfe0679c] "Eyeless" (seq 14511022)
+[06.04.2017 17:56:19] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 12530832)
+[06.04.2017 17:56:20] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 14122537)
+[06.04.2017 17:56:25] New Connection (slot #4) 112.134.16.247:27574 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 11863120)
+[06.04.2017 17:57:07] New Connection (slot #13) 123.231.107.115:33306 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 11368891)
+[06.04.2017 17:57:13] New Connection (slot #8) 175.157.127.21:29428 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 4710757)
+[06.04.2017 17:57:52] New Connection (slot #18) 123.231.125.59:63314 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 16507209)
+[06.04.2017 17:59:22] [From #13 a071(VALID) [AZ]I$ZEE] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 17:59:28] [From #8 e7b3(VALID) R00T] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 18:00:08] [From #18 5e5c(VALID) spamy :D] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 18:04:19] New Connection (slot #21) 123.231.125.223:25050 [0d12c9bfb0909045b2163cb795e53b4b] "anjuisu" (seq 16357300)
+[06.04.2017 18:05:43] No Master Query Sent - DNS has not yet resolved for MASTER8.EVENBALANCE.COM
+[06.04.2017 18:06:27] [From #21 3b4b(VALID) anjuisu] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 18:08:47] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 18:09:40] VIOLATION (COMFAIL) #101: anjuisu (slot #21) General PB Client Authentication Failure - Reinstall PB if problem persists [0d12c9bfb0909045b2163cb795e53b4b(VALID) 123.231.125.223:25050]
+[06.04.2017 18:09:40] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#21) 123.231.125.223:25050 0d12c9bfb0909045b2163cb795e53b4b anjuisu
+[06.04.2017 18:09:40] Lost Connection (slot #21) 123.231.125.223:25050 0d12c9bfb0909045b2163cb795e53b4b(VALID) anjuisu
+[06.04.2017 18:14:53] New Connection (slot #21) 123.231.125.223:25051 [0d12c9bfb0909045b2163cb795e53b4b] "anjuisu" (seq 16518303)
+[06.04.2017 18:17:28] VIOLATION (COMFAIL) #131: anjuisu (slot #21) PB Client Not Responding [0d12c9bfb0909045b2163cb795e53b4b(VALID) 123.231.125.223:25051]
+[06.04.2017 18:17:42] [From #21 3b4b(VALID) anjuisu] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 18:18:56] Lost Connection (slot #16) 112.135.3.133:38557 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.04.2017 18:18:57] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 18:18:57] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 18:18:57] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 18:18:57] Lost Connection (slot #4) 112.134.16.247:27574 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 18:18:57] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 18:18:57] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 18:18:57] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 18:18:57] Lost Connection (slot #8) 175.157.127.21:29428 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 18:18:57] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 18:18:57] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 18:18:57] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 18:18:57] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 18:18:57] Lost Connection (slot #13) 123.231.107.115:33306 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.04.2017 18:18:57] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 18:18:57] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 18:18:57] Lost Connection (slot #17) 112.134.2.73:35428 9ac11d6705b2e7b0e87c1549cb764f0b(VALID) #50
+[06.04.2017 18:18:57] Lost Connection (slot #18) 123.231.125.59:63314 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.04.2017 18:18:57] Lost Connection (slot #19) 123.231.126.78:5385 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.04.2017 18:18:57] Lost Connection (slot #20) 112.134.4.35:37969 e7243a374a146967cd59e96bdfe0679c(VALID) Eyeless
+[06.04.2017 18:18:57] Lost Connection (slot #21) 123.231.125.223:25051 0d12c9bfb0909045b2163cb795e53b4b(VALID) anjuisu
+[06.04.2017 18:18:57] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 18:19:02] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 13716085)
+[06.04.2017 18:19:03] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 8223608)
+[06.04.2017 18:19:03] New Connection (slot #4) 112.134.16.247:27574 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 6226232)
+[06.04.2017 18:19:03] New Connection (slot #7) 123.231.111.208:64559 [823e362e791d63e27ce054050f211371] "mines" (seq 5121731)
+[06.04.2017 18:19:04] New Connection (slot #17) 112.134.2.73:35428 [9ac11d6705b2e7b0e87c1549cb764f0b] "#50" (seq 16188930)
+[06.04.2017 18:19:04] New Connection (slot #3) 112.134.3.165:37318 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 16718556)
+[06.04.2017 18:19:04] New Connection (slot #13) 123.231.107.115:33306 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 16718556)
+[06.04.2017 18:19:04] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 15689776)
+[06.04.2017 18:19:04] New Connection (slot #15) 124.43.78.54:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 6213497)
+[06.04.2017 18:19:04] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 15166385)
+[06.04.2017 18:19:04] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 16264629)
+[06.04.2017 18:19:05] New Connection (slot #5) 123.231.127.51:65409 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 8183579)
+[06.04.2017 18:19:05] New Connection (slot #20) 112.134.4.35:37969 [e7243a374a146967cd59e96bdfe0679c] "Eyeless" (seq 8183579)
+[06.04.2017 18:19:05] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 16764671)
+[06.04.2017 18:19:05] New Connection (slot #19) 123.231.126.78:5385 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 16760646)
+[06.04.2017 18:19:05] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 5181937)
+[06.04.2017 18:19:07] Lost Connection (slot #3) 112.134.3.165:37318 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.04.2017 18:19:09] New Connection (slot #8) 175.157.127.21:29428 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 15817998)
+[06.04.2017 18:19:11] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 7274650)
+[06.04.2017 18:19:14] Lost Connection (slot #7) 123.231.111.208:64559 823e362e791d63e27ce054050f211371(VALID) mines
+[06.04.2017 18:21:29] Lost Connection (slot #17) 112.134.2.73:35428 9ac11d6705b2e7b0e87c1549cb764f0b(VALID) #50
+[06.04.2017 18:23:56] Lost Connection (slot #13) 123.231.107.115:33306 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.04.2017 18:24:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 18:25:43] No Master Query Sent - DNS has not yet resolved for COD41.EVENBALANCE.COM
+[06.04.2017 18:26:01] Lost Connection (slot #20) 112.134.4.35:37969 e7243a374a146967cd59e96bdfe0679c(VALID) Eyeless
+[06.04.2017 18:27:51] Kick Command Issued (^7connection interupted, reconnect [Admin Decision]) for (slot#8) 175.157.127.21:29428 ec0027e955439532e1c98b2e1a51e7b3 R00T
+[06.04.2017 18:27:51] Lost Connection (slot #8) 175.157.127.21:29428 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 18:28:53] New Connection (slot #8) 175.157.127.21:29429 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 16461085)
+[06.04.2017 18:30:54] [From #8 e7b3(VALID) R00T] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.04.2017 18:31:25] New Connection (slot #21) 123.231.125.223:25053 [0d12c9bfb0909045b2163cb795e53b4b] "anjuisu" (seq 10428179)
+[06.04.2017 18:33:08] Lost Connection (slot #5) 123.231.127.51:65409 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.04.2017 18:33:15] Lost Connection (slot #21) 123.231.125.223:25053 0d12c9bfb0909045b2163cb795e53b4b(VALID) anjuisu
+[06.04.2017 18:33:27] New Connection (slot #21) 123.231.125.223:25053 [0d12c9bfb0909045b2163cb795e53b4b] "anjuisu" (seq 15698103)
+[06.04.2017 18:35:43] [From #21 3b4b(VALID) anjuisu] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.04.2017 18:39:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 18:42:21] Lost Connection (slot #4) 112.134.16.247:27574 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.04.2017 18:45:43] No Master Query Sent - DNS has not yet resolved for MASTER5.EVENBALANCE.COM
+[06.04.2017 18:46:40] Lost Connection (slot #19) 123.231.126.78:5385 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.04.2017 18:47:37] Lost Connection (slot #15) 124.43.78.54:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.04.2017 18:47:38] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 18:47:38] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 18:47:38] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 18:47:38] Lost Connection (slot #8) 175.157.127.21:29429 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 18:47:38] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 18:47:38] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 18:47:38] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 18:47:38] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 18:47:38] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 18:47:38] Lost Connection (slot #21) 123.231.125.223:25053 0d12c9bfb0909045b2163cb795e53b4b(VALID) anjuisu
+[06.04.2017 18:47:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 18:47:44] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16744347)
+[06.04.2017 18:47:47] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 12513896)
+[06.04.2017 18:47:47] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 14646007)
+[06.04.2017 18:47:47] New Connection (slot #14) 123.231.111.95:36335 [52dc5696c7e39bfe6d6b2c0f4db373a5] "Pancha27" (seq 14521824)
+[06.04.2017 18:47:47] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 13555856)
+[06.04.2017 18:47:48] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 11505911)
+[06.04.2017 18:47:49] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 16584607)
+[06.04.2017 18:47:50] New Connection (slot #21) 123.231.125.223:25053 [0d12c9bfb0909045b2163cb795e53b4b] "anjuisu" (seq 15666981)
+[06.04.2017 18:47:52] New Connection (slot #8) 175.157.127.21:29429 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 6276264)
+[06.04.2017 18:47:52] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 14386817)
+[06.04.2017 18:47:55] Lost Connection (slot #14) 123.231.111.95:36335 52dc5696c7e39bfe6d6b2c0f4db373a5(VALID) Pancha27
+[06.04.2017 18:48:00] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 18:48:00] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 18:48:00] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 18:48:00] Lost Connection (slot #8) 175.157.127.21:29429 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 18:48:00] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 18:48:00] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 18:48:00] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 18:48:00] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 18:48:00] Lost Connection (slot #21) 123.231.125.223:25053 0d12c9bfb0909045b2163cb795e53b4b(VALID) anjuisu
+[06.04.2017 18:48:00] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 18:48:05] New Connection (slot #2) 123.231.110.76:13624 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16476520)
+[06.04.2017 18:48:06] New Connection (slot #10) 123.231.121.90:7569 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 15452174)
+[06.04.2017 18:48:06] New Connection (slot #1) 123.231.120.196:29954 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 4600461)
+[06.04.2017 18:48:06] New Connection (slot #12) 43.250.240.165:40573 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 10831711)
+[06.04.2017 18:48:07] New Connection (slot #9) 112.135.6.131:40783 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 16673171)
+[06.04.2017 18:48:08] New Connection (slot #21) 123.231.125.223:25053 [0d12c9bfb0909045b2163cb795e53b4b] "anjuisu" (seq 4000525)
+[06.04.2017 18:48:08] New Connection (slot #6) 175.157.66.45:29879 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 10432469)
+[06.04.2017 18:48:10] New Connection (slot #11) 175.157.59.82:37324 [401d1a1326d3972828f323e89cb9e561] "San" (seq 16090728)
+[06.04.2017 18:48:11] New Connection (slot #8) 175.157.127.21:29429 [ec0027e955439532e1c98b2e1a51e7b3] "R00T" (seq 13959462)
+[06.04.2017 18:48:32] Lost Connection (slot #9) 112.135.6.131:40783 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.04.2017 18:48:38] Lost Connection (slot #10) 123.231.121.90:7569 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.04.2017 18:48:49] Lost Connection (slot #12) 43.250.240.165:40573 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.04.2017 18:49:24] Lost Connection (slot #1) 123.231.120.196:29954 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.04.2017 18:53:20] Kick Command Issued (5m [Admin Decision]) for (slot#6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef FalCon
+[06.04.2017 18:53:21] Lost Connection (slot #6) 175.157.66.45:29879 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.04.2017 18:53:38] Lost Connection (slot #8) 175.157.127.21:29429 ec0027e955439532e1c98b2e1a51e7b3(VALID) R00T
+[06.04.2017 18:54:04] Kick Command Issued (^7as requested [Admin Decision]) for (slot#2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda imsofukindunwit
+[06.04.2017 18:54:04] Lost Connection (slot #2) 123.231.110.76:13624 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.04.2017 18:54:24] Lost Connection (slot #11) 175.157.59.82:37324 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.04.2017 18:54:45] Lost Connection (slot #21) 123.231.125.223:25053 0d12c9bfb0909045b2163cb795e53b4b(VALID) anjuisu
+[06.04.2017 18:54:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 19:10:05] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 19:20:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 19:25:24] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 19:40:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 19:56:03] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 20:08:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 20:11:22] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 20:26:42] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 20:42:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 20:57:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 20:57:20] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 21:12:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 21:27:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 21:43:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 21:45:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 21:58:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 22:13:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 22:29:17] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 22:34:20] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 22:44:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 22:59:56] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 23:15:15] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 23:22:54] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 23:30:34] pb_sv_GuidRelax = 7 (0 to 7)
+[06.04.2017 23:45:54] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 00:01:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 00:11:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 00:16:33] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 00:31:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 00:47:11] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 01:00:03] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 01:02:31] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 01:17:50] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 01:33:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 01:48:29] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 01:48:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 02:03:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 02:19:08] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 02:34:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 02:37:12] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 02:49:47] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 03:05:06] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 03:20:25] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 03:25:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 03:35:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 03:51:04] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 04:06:24] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 04:14:21] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 04:21:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 04:37:02] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 04:52:22] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 05:02:56] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 05:07:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 05:23:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 05:38:20] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 05:51:30] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 05:53:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 06:08:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 06:24:18] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 06:39:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 06:40:05] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 06:54:57] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 07:10:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 07:25:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 07:28:39] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 07:40:55] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 07:56:15] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 08:11:34] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 08:17:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 08:26:53] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 08:42:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 08:57:32] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 09:05:48] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 09:12:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 09:28:11] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 09:43:31] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 09:54:23] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 09:58:50] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 10:14:09] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 10:29:29] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 10:42:57] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 10:44:48] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 11:00:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 11:15:27] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 11:30:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 11:31:31] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 11:46:06] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 12:01:25] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 12:16:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 12:20:06] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 12:32:04] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 12:47:23] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 13:02:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 13:08:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 13:18:02] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 13:33:22] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 13:48:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 13:57:15] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 14:04:00] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 14:12:00] New Connection (slot #1) 123.231.110.76:27765 [89d0489c46b1d170fcea01807b71cdda] "H2k qLimAxzU19" (seq 7064950)
+[06.05.2017 14:12:27] Lost Connection (slot #1) 123.231.110.76:27765 89d0489c46b1d170fcea01807b71cdda(VALID) H2k qLimAxzU19
+[06.05.2017 14:12:27] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 14:12:33] New Connection (slot #1) 123.231.110.76:27765 [89d0489c46b1d170fcea01807b71cdda] "H2k qLimAxzU19" (seq 16441666)
+[06.05.2017 14:14:07] [From #1 cdda(VALID) H2k qLimAxzU19] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.05.2017 14:16:27] Lost Connection (slot #1) 123.231.110.76:27765 89d0489c46b1d170fcea01807b71cdda(VALID) H2k qLimAxzU19
+[06.05.2017 14:19:20] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 14:20:26] New Connection (slot #1) 123.231.110.76:27777 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16718674)
+[06.05.2017 14:22:27] [From #1 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.05.2017 14:24:23] Kick Command Issued (^7as requested [Admin Decision]) for (slot#1) 123.231.110.76:27777 89d0489c46b1d170fcea01807b71cdda imsofukindunwit
+[06.05.2017 14:24:23] Lost Connection (slot #1) 123.231.110.76:27777 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.05.2017 14:34:39] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 14:35:35] New Connection (slot #1) 123.231.120.181:44561 [b0eb9fef0f1d5a8e7e8468467b69d00b] "|LeOnarDo||||" (seq 16611545)
+[06.05.2017 14:36:21] Lost Connection (slot #1) 123.231.120.181:44561 b0eb9fef0f1d5a8e7e8468467b69d00b(VALID) |LeOnarDo||||
+[06.05.2017 14:36:34] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 14:49:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 15:05:18] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 15:20:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 15:25:08] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 15:35:57] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 15:51:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 16:06:35] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 16:13:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 16:16:06] New Connection (slot #1) 175.157.158.241:15962 [8b1186dc5f1ebe3fa5eb2463f44e9649] "p/-paya" (seq 16336270)
+[06.05.2017 16:16:15] New Connection (slot #2) 123.231.111.189:19072 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 11913416)
+[06.05.2017 16:16:15] No Master Query Sent - DNS has not yet resolved for MASTER6.EVENBALANCE.COM
+[06.05.2017 16:16:41] Lost Connection (slot #2) 123.231.111.189:19072 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.05.2017 16:17:00] Lost Connection (slot #1) 175.157.158.241:15962 8b1186dc5f1ebe3fa5eb2463f44e9649(VALID) p/-paya
+[06.05.2017 16:21:55] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 16:24:40] New Connection (slot #1) 123.231.126.78:7617 [aadb0d0fd54e526a24d0a05afc61f7be] "Gin" (seq 12280785)
+[06.05.2017 16:27:21] VIOLATION (COMFAIL) #101: Gin (slot #1) General PB Client Authentication Failure - Reinstall PB if problem persists [aadb0d0fd54e526a24d0a05afc61f7be(VALID) 123.231.126.78:7617]
+[06.05.2017 16:27:21] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#1) 123.231.126.78:7617 aadb0d0fd54e526a24d0a05afc61f7be Gin
+[06.05.2017 16:27:21] Lost Connection (slot #1) 123.231.126.78:7617 aadb0d0fd54e526a24d0a05afc61f7be(VALID) Gin
+[06.05.2017 16:37:14] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 16:48:21] New Connection (slot #1) 123.231.120.53:39869 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 14840125)
+[06.05.2017 16:50:00] Lost Connection (slot #1) 123.231.120.53:39869 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.05.2017 16:52:34] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 16:57:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 17:07:53] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 17:08:33] New Connection (slot #1) 103.21.166.55:44073 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 13098190)
+[06.05.2017 17:09:09] Lost Connection (slot #1) 103.21.166.55:44073 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.05.2017 17:23:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 17:34:42] New Connection (slot #1) 123.231.123.82:11462 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 5677181)
+[06.05.2017 17:36:33] Lost Connection (slot #1) 123.231.123.82:11462 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.05.2017 17:36:33] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 17:36:40] New Connection (slot #1) 123.231.123.82:11462 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 13631768)
+[06.05.2017 17:36:42] Lost Connection (slot #1) 123.231.123.82:11462 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.05.2017 17:37:52] New Connection (slot #1) 123.231.123.82:11464 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 5740915)
+[06.05.2017 17:38:32] Lost Connection (slot #1) 123.231.123.82:11464 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.05.2017 17:38:32] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 17:38:39] New Connection (slot #1) 123.231.123.82:11464 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 16740035)
+[06.05.2017 17:40:09] [From #1 a071(VALID) [AZ]I$ZEE] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.05.2017 17:44:52] Lost Connection (slot #1) 123.231.123.82:11464 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.05.2017 17:53:51] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 18:09:11] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 18:24:30] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 18:25:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 18:39:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 18:55:09] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 19:10:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 19:13:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 19:25:48] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 19:41:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 19:56:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 20:02:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 20:11:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 20:27:05] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 20:42:25] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 20:50:50] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 20:57:44] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 21:13:04] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 21:28:23] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 21:39:25] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 21:43:42] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 21:59:02] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 22:14:21] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 22:28:00] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 22:29:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 22:45:00] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 23:00:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 23:15:39] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 23:16:34] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 23:30:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.05.2017 23:46:17] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 00:01:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 00:05:08] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 00:16:56] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 00:32:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 00:47:35] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 00:53:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 01:02:55] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 01:18:14] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 01:33:33] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 01:42:18] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 01:48:53] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 02:04:12] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 02:19:31] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 02:30:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 02:34:51] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 02:50:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 03:05:30] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 03:19:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 03:20:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 03:36:09] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 03:51:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 04:06:47] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 04:08:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 04:22:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 04:37:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 04:52:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 04:56:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 05:08:05] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 05:23:24] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 05:38:44] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 05:45:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 05:54:03] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 06:09:22] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 06:24:42] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 06:33:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 06:40:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 06:55:21] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 07:10:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 07:22:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 07:25:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 07:41:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 07:56:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 08:10:54] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 08:11:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 08:27:17] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 08:42:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 08:57:56] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 08:59:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 09:13:15] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 09:28:35] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 09:43:54] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 09:48:03] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 09:59:14] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 10:14:33] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 10:29:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 10:36:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 10:45:12] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 11:00:31] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 11:15:50] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 11:25:11] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 11:31:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 11:46:29] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 12:01:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 12:13:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 12:17:08] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 12:32:28] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 12:47:47] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 13:02:21] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 13:03:06] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 13:18:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 13:33:45] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 13:49:05] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 13:50:55] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 14:04:24] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 14:19:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 14:35:03] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 14:39:30] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 14:50:22] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:05:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:21:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:28:04] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:36:20] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:42:12] New Connection (slot #1) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 13793170)
+[06.06.2017 15:42:27] Lost Connection (slot #1) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 15:42:36] New Connection (slot #1) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 14835915)
+[06.06.2017 15:44:37] [From #1 d4f9(VALID) RebelXX] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 15:47:03] Lost Connection (slot #1) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 15:51:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:55:30] New Connection (slot #1) 123.231.125.67:8485 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 15459653)
+[06.06.2017 15:57:08] New Connection (slot #2) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 16087578)
+[06.06.2017 15:57:08] No Master Query Sent - DNS has not yet resolved for MASTER8.EVENBALANCE.COM
+[06.06.2017 15:57:31] [From #1 0ad3(VALID) ^3SL[^4Jayyz^3]] My dx C:\Windows\SYSTEM32\d3d9.dll size=1762304 md5=118BA3061B4040BDC17432B775F3A292
+[06.06.2017 15:59:26] Lost Connection (slot #1) 123.231.125.67:8485 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.06.2017 15:59:26] Lost Connection (slot #2) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 15:59:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 15:59:32] New Connection (slot #1) 123.231.125.67:8485 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 12554779)
+[06.06.2017 15:59:38] New Connection (slot #2) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 12541737)
+[06.06.2017 15:59:39] [From #2 d4f9(VALID) RebelXX] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:06:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:14:37] Lost Connection (slot #1) 123.231.125.67:8485 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.06.2017 16:14:37] Lost Connection (slot #2) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 16:14:37] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:14:48] New Connection (slot #1) 123.231.125.67:8485 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 15669241)
+[06.06.2017 16:15:29] Lost Connection (slot #1) 123.231.125.67:8485 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.06.2017 16:21:32] New Connection (slot #1) 112.135.1.121:13399 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 14664271)
+[06.06.2017 16:22:09] Lost Connection (slot #1) 112.135.1.121:13399 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.06.2017 16:22:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:22:44] New Connection (slot #1) 112.135.1.121:13399 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 16723498)
+[06.06.2017 16:24:03] Lost Connection (slot #1) 112.135.1.121:13399 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.06.2017 16:36:07] New Connection (slot #1) 112.135.0.100:5545 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 16431236)
+[06.06.2017 16:37:38] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:38:08] [From #1 7ff4(VALID) [ZN]SilentKille] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.06.2017 16:39:48] New Connection (slot #1) 123.231.104.192:51149 [d3ccc66f7b1bf9e77faead1d50a15a0a] " KissMyAss" (seq 16179620)
+[06.06.2017 16:40:19] Lost Connection (slot #1) 123.231.104.192:51149 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID)  KissMyAss
+[06.06.2017 16:40:30] New Connection (slot #2) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 16659815)
+[06.06.2017 16:40:30] No Master Query Sent - DNS has not yet resolved for COD41.EVENBALANCE.COM
+[06.06.2017 16:40:43] Lost Connection (slot #2) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 16:40:49] New Connection (slot #3) 112.135.7.79:24802 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 596418)
+[06.06.2017 16:40:53] New Connection (slot #1) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 15411624)
+[06.06.2017 16:41:01] New Connection (slot #4) 123.231.121.249:10407 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 7544337)
+[06.06.2017 16:41:29] Lost Connection (slot #1) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 16:41:37] New Connection (slot #2) 123.231.104.192:51150 [d3ccc66f7b1bf9e77faead1d50a15a0a] " KissMyAss" (seq 3592873)
+[06.06.2017 16:41:44] New Connection (slot #5) 123.231.125.67:9184 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 16634005)
+[06.06.2017 16:42:50] [From #3 4c82(VALID) picaso] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:43:16] [From #4 5e5c(VALID) spamy :D] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.06.2017 16:43:52] [From #2 5a0a(VALID)  KissMyAss] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:43:59] [From #5 0ad3(VALID) ^3SL[^4Jayyz^3]] My dx C:\Windows\SYSTEM32\d3d9.dll size=1762304 md5=118BA3061B4040BDC17432B775F3A292
+[06.06.2017 16:44:31] New Connection (slot #6) 112.135.1.121:14176 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 8021890)
+[06.06.2017 16:47:16] [From #6 a5ef(VALID) slash] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.06.2017 16:48:41] New Connection (slot #7) 123.231.110.76:53776 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 7804707)
+[06.06.2017 16:50:09] New Connection (slot #8) 175.157.241.169:15960 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "NoSound" (seq 15478897)
+[06.06.2017 16:50:57] [From #7 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.06.2017 16:51:08] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "NoSound" (seq 6238153)
+[06.06.2017 16:51:24] Lost Connection (slot #1) 112.135.0.100:5545 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.06.2017 16:51:24] Lost Connection (slot #2) 123.231.104.192:51150 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID)  KissMyAss
+[06.06.2017 16:51:24] Lost Connection (slot #3) 112.135.7.79:24802 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.06.2017 16:51:24] Lost Connection (slot #4) 123.231.121.249:10407 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.06.2017 16:51:24] Lost Connection (slot #5) 123.231.125.67:9184 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.06.2017 16:51:24] Lost Connection (slot #6) 112.135.1.121:14176 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.06.2017 16:51:24] Lost Connection (slot #7) 123.231.110.76:53776 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 16:51:24] Lost Connection (slot #8) 175.157.241.169:15960 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) NoSound
+[06.06.2017 16:51:24] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) NoSound
+[06.06.2017 16:51:24] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:51:30] New Connection (slot #5) 123.231.125.67:9184 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 15721781)
+[06.06.2017 16:51:31] New Connection (slot #6) 112.135.1.121:14176 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 12581676)
+[06.06.2017 16:51:31] New Connection (slot #7) 123.231.110.76:53776 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12565133)
+[06.06.2017 16:51:33] New Connection (slot #2) 123.231.104.192:51150 [d3ccc66f7b1bf9e77faead1d50a15a0a] " KissMyAss" (seq 7820982)
+[06.06.2017 16:51:33] New Connection (slot #3) 112.135.7.79:24802 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 15499419)
+[06.06.2017 16:51:36] New Connection (slot #1) 112.135.0.100:5545 [0b6a5a7f553c1219b0786fec239d7ff4] "[ZN]SilentKille" (seq 16724377)
+[06.06.2017 16:51:38] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "NoSound" (seq 13102567)
+[06.06.2017 16:51:45] New Connection (slot #4) 123.231.121.249:10407 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 16761088)
+[06.06.2017 16:52:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:53:08] [From #9 c1ef(VALID) FalCon] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.06.2017 16:53:11] New Connection (slot #1) 112.134.6.117:31648 [e7243a374a146967cd59e96bdfe0679c] "[KR]Eyeless" (seq 2612868)
+[06.06.2017 16:54:05] New Connection (slot #10) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 16612904)
+[06.06.2017 16:54:06] New Connection (slot #8) 123.231.120.68:49949 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 12412794)
+[06.06.2017 16:54:10] Lost Connection (slot #10) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 16:54:18] New Connection (slot #4) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 13548740)
+[06.06.2017 16:54:18] No Master Query Sent - DNS has not yet resolved for MASTER8.EVENBALANCE.COM
+[06.06.2017 16:54:36] Lost Connection (slot #1) 112.134.6.117:31648 e7243a374a146967cd59e96bdfe0679c(VALID) [KR]Eyeless
+[06.06.2017 16:54:36] Lost Connection (slot #4) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 16:54:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 16:54:44] New Connection (slot #4) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 15582861)
+[06.06.2017 16:54:44] New Connection (slot #1) 112.134.6.117:31648 [e7243a374a146967cd59e96bdfe0679c] "[KR]Eyeless" (seq 16720994)
+[06.06.2017 16:55:06] New Connection (slot #2) 123.231.120.230:25368 [646b32845eddc6a816f39a108fe8269f] "[vMx] Neo" (seq 16553739)
+[06.06.2017 16:55:07] New Connection (slot #3) 112.135.1.13:2458 [401d1a1326d3972828f323e89cb9e561] "[KR] Draco" (seq 14404550)
+[06.06.2017 16:55:15] [From #1 679c(VALID) [KR]Eyeless] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.06.2017 16:55:22] New Connection (slot #5) 112.134.102.188:52220 [150c23fa3e4afd09cd003b1149e66341] "[vMx]#VAT69" (seq 16575154)
+[06.06.2017 16:55:30] New Connection (slot #7) 112.134.103.166:1051 [6b15940236218b1d917a4baf42448b49] "[vMX] isBack" (seq 6130512)
+[06.06.2017 16:55:31] New Connection (slot #6) 112.134.98.145:8884 [c68ec51d391205dae8e7ba543fb37678] "[vMx] BaRNey" (seq 9375980)
+[06.06.2017 16:56:07] [From #8 7dab(VALID) UD_the_NooB] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:56:58] [From #4 d4f9(VALID) RebelXX] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:57:22] [From #2 269f(VALID) [vMx] Neo] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.06.2017 16:57:23] [From #3 e561(VALID) [KR] Draco] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:57:45] Lost Connection (slot #5) 123.231.125.67:9184 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.06.2017 16:57:46] [From #6 7678(VALID) [vMx] BaRNey] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:57:56] Lost Connection (slot #2) 123.231.120.230:25368 646b32845eddc6a816f39a108fe8269f(VALID) [vMx] Neo
+[06.06.2017 16:58:07] [From #5 6341(VALID) [vMx]#VAT69] My dx C:\Windows\SYSTEM32\d3d9.dll size=1799952 md5=4A4F18A6BEFA9D27E1C33C47DC617775
+[06.06.2017 16:58:15] [From #7 8b49(VALID) [vMX] isBack] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 16:58:26] New Connection (slot #8) 112.135.1.250:49120 [5915d149c73701f1f6ad325240db783e] "[vMx] Laiya" (seq 1781767)
+[06.06.2017 16:58:44] Lost Connection (slot #2) 123.231.104.192:51150 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID)  KissMyAss
+[06.06.2017 16:58:51] Lost Connection (slot #8) 112.135.1.250:49120 5915d149c73701f1f6ad325240db783e(VALID) [vMx] Laiya
+[06.06.2017 16:58:53] New Connection (slot #2) 123.231.125.67:9193 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 10858225)
+[06.06.2017 16:59:25] New Connection (slot #8) 123.231.122.160:31276 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16773340)
+[06.06.2017 16:59:32] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 7587743)
+[06.06.2017 17:00:12] VIOLATION (COMFAIL) #101: imsofukindunwit (slot #7) General PB Client Authentication Failure - Reinstall PB if problem persists [89d0489c46b1d170fcea01807b71cdda(VALID) 123.231.110.76:53776]
+[06.06.2017 17:00:12] Kick Command Issued (General PB Client Authentication Failure - Reinstall PB if problem persists) for (slot#7) 123.231.110.76:53776 89d0489c46b1d170fcea01807b71cdda imsofukindunwit
+[06.06.2017 17:00:12] Lost Connection (slot #7) 123.231.110.76:53776 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 17:00:30] No Master Query Sent - DNS has not yet resolved for MASTER5.EVENBALANCE.COM
+[06.06.2017 17:01:08] New Connection (slot #9) 123.231.104.192:51836 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 992973)
+[06.06.2017 17:01:20] New Connection (slot #10) 123.231.120.230:25370 [646b32845eddc6a816f39a108fe8269f] "[vMx] Neo" (seq 6146883)
+[06.06.2017 17:01:33] [From #2 a071(VALID) [AZ]I$ZEE] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.06.2017 17:03:51] Lost Connection (slot #6) 112.135.1.121:14176 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.06.2017 17:05:01] New Connection (slot #5) 123.231.125.67:9197 [dc3de46d728013f45db68f768b8b0ad3] "^3SL[^4Jayyz^3]" (seq 12513619)
+[06.06.2017 17:05:36] New Connection (slot #10) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 7285650)
+[06.06.2017 17:05:43] Lost Connection (slot #3) 112.135.7.79:24802 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.06.2017 17:06:39] Lost Connection (slot #10) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 17:07:46] Lost Connection (slot #5) 123.231.125.67:9197 dc3de46d728013f45db68f768b8b0ad3(VALID) ^3SL[^4Jayyz^3]
+[06.06.2017 17:08:03] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16725956)
+[06.06.2017 17:10:10] [From #3 cdda(VALID) imsofukindunwit] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.06.2017 17:10:13] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 12468039)
+[06.06.2017 17:10:30] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "#50" (seq 14660122)
+[06.06.2017 17:12:28] [From #6 5667(VALID) MURDER] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 17:12:34] [From #5 4e0b(VALID) Insane] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 17:12:40] New Connection (slot #7) 112.135.7.79:24866 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 9408567)
+[06.06.2017 17:13:47] New Connection (slot #10) 112.134.133.134:28960 [6eb820eda9d919afa06e9546b445d4f9] "RebelXX" (seq 8364073)
+[06.06.2017 17:14:17] Lost Connection (slot #10) 112.134.133.134:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) RebelXX
+[06.06.2017 17:14:55] [From #7 4c82(VALID) picaso] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 17:17:54] Kick Command Issued (^7connection interupted, reconnect [Admin Decision]) for (slot#5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b Insane
+[06.06.2017 17:17:54] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 17:17:57] NOTICE: PB Client (10002/1) out of sequence - Slot #1
+[06.06.2017 17:18:05] Kick Command Issued (^7connection interupted, reconnect [Admin Decision]) for (slot#1) 112.135.0.100:5545 0b6a5a7f553c1219b0786fec239d7ff4 [ZN]SilentKille
+[06.06.2017 17:18:05] Lost Connection (slot #1) 112.135.0.100:5545 0b6a5a7f553c1219b0786fec239d7ff4(VALID) [ZN]SilentKille
+[06.06.2017 17:19:06] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 12542841)
+[06.06.2017 17:20:30] No Master Query Sent - DNS has not yet resolved for MASTER6.EVENBALANCE.COM
+[06.06.2017 17:20:36] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 17:20:36] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 17:20:36] Lost Connection (slot #4) 123.231.121.249:10407 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.06.2017 17:20:36] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 17:20:36] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 17:20:36] Lost Connection (slot #7) 112.135.7.79:24866 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.06.2017 17:20:36] Lost Connection (slot #8) 123.231.120.68:49949 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.06.2017 17:20:36] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.06.2017 17:20:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 17:20:42] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16761397)
+[06.06.2017 17:20:44] New Connection (slot #7) 112.135.7.79:24866 [abb2a01e439d716711effd5226fa4c82] "picaso" (seq 14632786)
+[06.06.2017 17:20:46] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 12418485)
+[06.06.2017 17:20:47] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 15164917)
+[06.06.2017 17:20:48] New Connection (slot #8) 123.231.120.68:49949 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 16538878)
+[06.06.2017 17:20:49] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 13926459)
+[06.06.2017 17:20:50] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 15810520)
+[06.06.2017 17:20:55] New Connection (slot #4) 123.231.121.249:10407 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 3859937)
+[06.06.2017 17:21:21] [From #5 4e0b(VALID) Insane] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 17:21:24] Lost Connection (slot #7) 112.135.7.79:24866 abb2a01e439d716711effd5226fa4c82(VALID) picaso
+[06.06.2017 17:22:24] Screenshot 000003 Requested from 6  MURDER
+[06.06.2017 17:22:24] 1 Screenshot Requested
+[06.06.2017 17:22:26] Screenshot /root/cod4/pb/svss/pb000003.png successfully received (MD5=E7E882E5A22D4B9F6CCE99F810A61C35) from 6 MURDER [c8d72b76b34349347ab650f611c35667(VALID) 123.231.122.53:54940]
+[06.06.2017 17:23:45] Lost Connection (slot #8) 123.231.120.68:49949 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.06.2017 17:23:55] New Connection (slot #1) 112.135.1.121:14806 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 16589196)
+[06.06.2017 17:24:02] Lost Connection (slot #4) 123.231.121.249:10407 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.06.2017 17:24:07] Lost Connection (slot #1) 112.135.1.121:14806 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.06.2017 17:25:04] New Connection (slot #1) 112.135.1.121:14806 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 15667174)
+[06.06.2017 17:25:26] Lost Connection (slot #1) 112.135.1.121:14806 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.06.2017 17:32:05] New Connection (slot #1) 113.59.194.230:1088 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 8314886)
+[06.06.2017 17:32:20] Lost Connection (slot #1) 113.59.194.230:1088 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.06.2017 17:33:00] New Connection (slot #1) 113.59.194.230:1088 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 16751696)
+[06.06.2017 17:33:05] Lost Connection (slot #1) 113.59.194.230:1088 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.06.2017 17:34:13] New Connection (slot #1) 43.250.241.91:15002 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 8835877)
+[06.06.2017 17:34:28] Lost Connection (slot #1) 43.250.241.91:15002 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.06.2017 17:35:04] New Connection (slot #1) 43.250.241.91:15002 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 7632692)
+[06.06.2017 17:35:50] Lost Connection (slot #1) 43.250.241.91:15002 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.06.2017 17:36:18] New Connection (slot #1) 113.59.194.230:11556 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 16484035)
+[06.06.2017 17:38:01] Lost Connection (slot #1) 113.59.194.230:11556 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.06.2017 17:38:07] New Connection (slot #1) 113.59.194.230:11556 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 10407822)
+[06.06.2017 17:39:11] Lost Connection (slot #1) 113.59.194.230:11556 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.06.2017 17:39:58] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 17:39:58] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 17:39:58] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 17:39:58] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 17:39:58] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.06.2017 17:39:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 17:40:04] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16662390)
+[06.06.2017 17:40:07] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 8238310)
+[06.06.2017 17:40:07] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 12524047)
+[06.06.2017 17:40:12] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 12162818)
+[06.06.2017 17:40:16] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 17:40:16] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 17:40:16] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 17:40:16] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 17:40:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 17:40:21] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 15538985)
+[06.06.2017 17:40:24] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 11871267)
+[06.06.2017 17:40:24] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 14182400)
+[06.06.2017 17:40:28] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 16484424)
+[06.06.2017 17:40:30] No Master Query Sent - DNS has not yet resolved for MASTER8.EVENBALANCE.COM
+[06.06.2017 17:40:30] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 17:40:56] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 6283514)
+[06.06.2017 17:41:49] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 16732395)
+[06.06.2017 17:42:57] [From #5 4e0b(VALID) Insane] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 17:44:27] [From #9 c1ef(VALID) FalCon] My dx C:\Windows\SYSTEM32\d3d9.dll size=1907384 md5=0936955770489965EB9041D00636369D
+[06.06.2017 17:50:37] New Connection (slot #8) 123.231.120.68:49952 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 16244006)
+[06.06.2017 17:52:52] [From #8 7dab(VALID) UD_the_NooB] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.06.2017 18:00:30] No Master Query Sent - DNS has not yet resolved for COD41.EVENBALANCE.COM
+[06.06.2017 18:09:49] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 18:09:49] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 18:09:49] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 18:09:49] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 18:09:49] Lost Connection (slot #8) 123.231.120.68:49952 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.06.2017 18:09:49] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.06.2017 18:09:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 18:09:54] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 15463330)
+[06.06.2017 18:09:56] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 14503959)
+[06.06.2017 18:09:57] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 3657580)
+[06.06.2017 18:09:59] New Connection (slot #8) 123.231.120.68:49952 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 15582841)
+[06.06.2017 18:10:00] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 8201176)
+[06.06.2017 18:10:00] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 15112195)
+[06.06.2017 18:10:18] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 18:10:18] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 18:10:18] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 18:10:18] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 18:10:18] Lost Connection (slot #8) 123.231.120.68:49952 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.06.2017 18:10:18] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.06.2017 18:10:18] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 18:10:18] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 18:10:22] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 7056311)
+[06.06.2017 18:10:25] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 16490213)
+[06.06.2017 18:10:25] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 15696928)
+[06.06.2017 18:10:26] New Connection (slot #8) 123.231.120.68:49952 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 16738366)
+[06.06.2017 18:10:28] New Connection (slot #5) 123.231.122.160:31280 [18fa96ccf08d79ba0c3c9f651b444e0b] "Insane" (seq 14130929)
+[06.06.2017 18:10:28] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 14130929)
+[06.06.2017 18:20:30] No Master Query Sent - DNS has not yet resolved for MASTER5.EVENBALANCE.COM
+[06.06.2017 18:20:37] Lost Connection (slot #5) 123.231.122.160:31280 18fa96ccf08d79ba0c3c9f651b444e0b(VALID) Insane
+[06.06.2017 18:20:41] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 18:20:41] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 18:20:41] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 18:20:41] Lost Connection (slot #8) 123.231.120.68:49952 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.06.2017 18:20:41] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.06.2017 18:20:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 18:20:46] New Connection (slot #3) 123.231.122.160:31279 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16230605)
+[06.06.2017 18:20:47] New Connection (slot #6) 123.231.122.53:54940 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 16201497)
+[06.06.2017 18:20:48] New Connection (slot #2) 123.231.123.82:12932 [fad6b536ff09d3ead9bd886503b8a071] "[AZ]I$ZEE" (seq 14487655)
+[06.06.2017 18:20:49] New Connection (slot #9) 175.157.72.101:41098 [cdd70fb5bd89fcb46c5e0392be0ec1ef] "FalCon" (seq 14679833)
+[06.06.2017 18:30:05] Kick Command Issued (^7as requested [Admin Decision]) for (slot#3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda imsofukindunwit
+[06.06.2017 18:30:05] Lost Connection (slot #3) 123.231.122.160:31279 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.06.2017 18:30:58] Lost Connection (slot #6) 123.231.122.53:54940 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.06.2017 18:30:59] Lost Connection (slot #2) 123.231.123.82:12932 fad6b536ff09d3ead9bd886503b8a071(VALID) [AZ]I$ZEE
+[06.06.2017 18:31:04] Lost Connection (slot #9) 175.157.72.101:41098 cdd70fb5bd89fcb46c5e0392be0ec1ef(VALID) FalCon
+[06.06.2017 18:31:06] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 18:31:06] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 19:19:40] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 20:08:14] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 20:56:49] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 21:45:23] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 22:33:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.06.2017 23:22:32] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 00:11:07] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 00:59:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 01:48:16] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 02:36:50] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 03:25:25] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 04:13:59] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 05:02:34] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 05:51:08] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 06:39:43] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 07:28:17] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 08:16:52] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 09:05:26] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 09:54:01] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 10:42:35] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 11:31:10] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 12:19:44] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 13:08:19] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 13:56:53] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 14:35:11] New Connection (slot #1) 112.134.17.70:37990 [401d1a1326d3972828f323e89cb9e561] "SKR" (seq 14390709)
+[06.07.2017 14:37:12] [From #1 e561(VALID) SKR] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.07.2017 14:39:34] Lost Connection (slot #1) 112.134.17.70:37990 401d1a1326d3972828f323e89cb9e561(VALID) SKR
+[06.07.2017 14:39:53] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 15:28:27] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 16:17:02] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 16:27:40] New Connection (slot #1) 123.231.123.88:39813 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 15948620)
+[06.07.2017 16:27:48] Lost Connection (slot #1) 123.231.123.88:39813 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.07.2017 16:31:22] New Connection (slot #1) 112.134.7.83:34588 [ecd702faca04728d8627d0f1df3bcf10] "PR34CH3R" (seq 12561161)
+[06.07.2017 16:31:46] Lost Connection (slot #1) 112.134.7.83:34588 ecd702faca04728d8627d0f1df3bcf10(VALID) PR34CH3R
+[06.07.2017 16:31:59] New Connection (slot #1) 112.134.17.70:38725 [401d1a1326d3972828f323e89cb9e561] "SKR" (seq 7110056)
+[06.07.2017 16:33:36] Lost Connection (slot #1) 112.134.17.70:38725 401d1a1326d3972828f323e89cb9e561(VALID) SKR
+[06.07.2017 16:35:41] New Connection (slot #1) 123.231.121.249:11853 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 6246826)
+[06.07.2017 16:35:50] Lost Connection (slot #1) 123.231.121.249:11853 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.07.2017 16:49:59] New Connection (slot #1) 123.231.123.88:41298 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 13628076)
+[06.07.2017 16:50:09] Lost Connection (slot #1) 123.231.123.88:41298 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.07.2017 16:53:48] New Connection (slot #2) 123.231.126.198:13643 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 3764307)
+[06.07.2017 16:54:05] New Connection (slot #1) 123.231.123.88:41300 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 13579886)
+[06.07.2017 16:54:05] No Master Query Sent - DNS has not yet resolved for MASTER6.EVENBALANCE.COM
+[06.07.2017 16:54:18] Lost Connection (slot #1) 123.231.123.88:41300 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.07.2017 16:54:25] New Connection (slot #1) 123.231.123.88:41300 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 12544359)
+[06.07.2017 16:55:03] New Connection (slot #3) 112.134.17.70:38767 [401d1a1326d3972828f323e89cb9e561] "SKR" (seq 14678190)
+[06.07.2017 16:55:49] [From #2 7dab(VALID) UD_the_NooB] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.07.2017 16:56:26] [From #1 5667(VALID) MURDER] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.07.2017 16:56:46] Lost Connection (slot #1) 123.231.123.88:41300 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.07.2017 16:56:46] Lost Connection (slot #2) 123.231.126.198:13643 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.07.2017 16:56:46] Lost Connection (slot #3) 112.134.17.70:38767 401d1a1326d3972828f323e89cb9e561(VALID) SKR
+[06.07.2017 16:56:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 16:56:54] New Connection (slot #3) 112.134.17.70:38767 [401d1a1326d3972828f323e89cb9e561] "SKR" (seq 12457695)
+[06.07.2017 16:56:55] New Connection (slot #1) 123.231.123.88:41300 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 16725925)
+[06.07.2017 16:56:58] New Connection (slot #2) 123.231.126.198:13643 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 7478934)
+[06.07.2017 16:57:25] [From #3 e561(VALID) SKR] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.07.2017 16:57:46] New Connection (slot #4) 112.135.6.122:53383 [401d1a1326d3972828f323e89cb9e561] "[KR] Draco" (seq 7315568)
+[06.07.2017 16:59:55] [From #4 e561(VALID) [KR] Draco] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.07.2017 17:02:15] New Connection (slot #5) 123.231.121.249:11857 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 14262798)
+[06.07.2017 17:02:42] New Connection (slot #6) 112.135.1.59:7183 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 12413486)
+[06.07.2017 17:04:16] [From #5 5e5c(VALID) spamy :D] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1436952 md5=89C616A2351571C80A1C8E59F06993C0
+[06.07.2017 17:04:43] [From #6 a5ef(VALID) slash] My dx C:\Windows\SYSTEM32\d3d9.dll size=1867672 md5=FBE5B7DF18CD87C7C193E4FA503CBA9F
+[06.07.2017 17:05:40] New Connection (slot #7) 112.135.3.64:41539 [dc3de46d728013f45db68f768b8b0ad3] "Jayyz" (seq 16688689)
+[06.07.2017 17:07:41] [From #7 0ad3(VALID) Jayyz] My dx C:\Windows\SYSTEM32\d3d9.dll size=1762304 md5=118BA3061B4040BDC17432B775F3A292
+[06.07.2017 17:09:49] New Connection (slot #8) 113.59.210.176:23397 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 11499717)
+[06.07.2017 17:11:57] [From #8 5a0a(VALID) noob] My dx C:\WINDOWS\SYSTEM32\d3d9.dll size=1425000 md5=17C406D38C3989FF3BDB17D08C1991CE
+[06.07.2017 17:14:05] No Master Query Sent - DNS has not yet resolved for MASTER8.EVENBALANCE.COM
+[06.07.2017 17:19:46] Lost Connection (slot #1) 123.231.123.88:41300 c8d72b76b34349347ab650f611c35667(VALID) MURDER
+[06.07.2017 17:19:46] Lost Connection (slot #2) 123.231.126.198:13643 3dea3d63487f44e23db4fe9e05827dab(VALID) UD_the_NooB
+[06.07.2017 17:19:46] Lost Connection (slot #3) 112.134.17.70:38767 401d1a1326d3972828f323e89cb9e561(VALID) SKR
+[06.07.2017 17:19:46] Lost Connection (slot #4) 112.135.6.122:53383 401d1a1326d3972828f323e89cb9e561(VALID) [KR] Draco
+[06.07.2017 17:19:46] Lost Connection (slot #5) 123.231.121.249:11857 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.07.2017 17:19:46] Lost Connection (slot #6) 112.135.1.59:7183 f37cc145b840ace207a54ee6492ea5ef(VALID) slash
+[06.07.2017 17:19:46] Lost Connection (slot #7) 112.135.3.64:41539 dc3de46d728013f45db68f768b8b0ad3(VALID) Jayyz
+[06.07.2017 17:19:46] Lost Connection (slot #8) 113.59.210.176:23397 d3ccc66f7b1bf9e77faead1d50a15a0a(VALID) noob
+[06.07.2017 17:19:46] pb_sv_GuidRelax = 7 (0 to 7)
+[06.07.2017 17:19:52] New Connection (slot #7) 112.135.3.64:41539 [dc3de46d728013f45db68f768b8b0ad3] "Jayyz" (seq 15382156)
+[06.07.2017 17:19:54] New Connection (slot #1) 123.231.123.88:41300 [c8d72b76b34349347ab650f611c35667] "MURDER" (seq 16338619)
+[06.07.2017 17:19:54] New Connection (slot #8) 113.59.210.176:23397 [d3ccc66f7b1bf9e77faead1d50a15a0a] "noob" (seq 16460450)
+[06.07.2017 17:19:55] New Connection (slot #6) 112.135.1.59:7183 [f37cc145b840ace207a54ee6492ea5ef] "slash" (seq 16651999)
+[06.07.2017 17:19:55] New Connection (slot #2) 123.231.126.198:13643 [3dea3d63487f44e23db4fe9e05827dab] "UD_the_NooB" (seq 16764314)
+[06.07.2017 17:19:56] New Connection (slot #4) 112.135.6.122:53383 [401d1a1326d3972828f323e89cb9e561] "[KR] Draco" (seq 16773269)
+[06.07.2017 17:20:10] New Connection (slot #5) 123.231.121.249:11857 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 15036411)

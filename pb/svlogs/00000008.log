@@ -1,0 +1,10 @@
+[06.02.2017 21:01:29] PB Log File /root/cod4/pb/svlogs/00000008.log Opened for COD4 (l)
+[06.02.2017 21:01:29] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[06.02.2017 21:01:29] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[06.02.2017 21:01:29] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[06.02.2017 21:01:29] Attempting to resolve master4.evenbalance.com
+[06.02.2017 21:01:29] Resolved to [50.62.81.163]
+[06.02.2017 21:01:29] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[06.02.2017 21:01:32] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 21:01:32] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[06.02.2017 21:01:48] New Connection (slot #1) 112.134.47.143:34294 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 10431892)

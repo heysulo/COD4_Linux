@@ -1,0 +1,39 @@
+[06.02.2017 16:53:52] PB Log File /root/cod4/pb/svlogs/00000007.log Opened for COD4 (l)
+[06.02.2017 16:53:52] 0 Power Players loaded from /root/cod4/pb/pbpower.dat
+[06.02.2017 16:53:52] 0 PB Rcon Filters loaded from /root/cod4/pb/pbrcon.dat
+[06.02.2017 16:53:52] 0 Map lines loaded from /root/cod4/pb/pbsvmaps.cfg
+[06.02.2017 16:53:52] Attempting to resolve master1.evenbalance.com
+[06.02.2017 16:53:52] Resolved to [50.63.136.194]
+[06.02.2017 16:53:52] PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+[06.02.2017 16:53:55] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:53:55] Game Version [CoD4 X 1.7a linux-i386-testing build 2535 Jun  4 2014]
+[06.02.2017 16:54:14] New Connection (slot #1) 123.231.120.253:36430 [92a4c1203a481dec60d1b011a00f5e5c] "spamy :D" (seq 12431146)
+[06.02.2017 16:54:18] New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12477920)
+[06.02.2017 16:54:38] Lost Connection (slot #1) 123.231.120.253:36430 92a4c1203a481dec60d1b011a00f5e5c(VALID) spamy :D
+[06.02.2017 16:55:41] Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.02.2017 16:55:49] New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 16071729)
+[06.02.2017 16:56:12] Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.02.2017 16:56:19] New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 4071476)
+[06.02.2017 16:57:13] Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.02.2017 16:57:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:57:13] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 16:57:19] New Connection (slot #2) 112.134.47.219:9661 [89d0489c46b1d170fcea01807b71cdda] "imsofukindunwit" (seq 12551662)
+[06.02.2017 16:58:43] Lost Connection (slot #2) 112.134.47.219:9661 89d0489c46b1d170fcea01807b71cdda(VALID) imsofukindunwit
+[06.02.2017 17:29:34] New Connection (slot #1) 175.157.56.116:63268 [401d1a1326d3972828f323e89cb9e561] "San" (seq 16587560)
+[06.02.2017 17:31:38] [From #1 e561(VALID) San] My dx C:\Windows\SYSTEM32\d3d9.dll size=1797896 md5=949E0E42DAAD0418513B44C31A697CA5
+[06.02.2017 17:33:39] Lost Connection (slot #1) 175.157.56.116:63268 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.02.2017 17:33:39] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 17:33:55] New Connection (slot #1) 175.157.56.116:63268 [401d1a1326d3972828f323e89cb9e561] "San" (seq 13601947)
+[06.02.2017 17:34:30] Lost Connection (slot #1) 175.157.56.116:63268 401d1a1326d3972828f323e89cb9e561(VALID) San
+[06.02.2017 17:45:19] New Connection (slot #1) 123.231.120.79:32676 [59949606944f21e5714c3a20301e7cbb] "Hell" (seq 7566685)
+[06.02.2017 17:45:25] Lost Connection (slot #1) 123.231.120.79:32676 59949606944f21e5714c3a20301e7cbb(VALID) Hell
+[06.02.2017 17:47:19] New Connection (slot #1) 124.43.93.155:28960 [6eb820eda9d919afa06e9546b445d4f9] "[KR] RebelXX" (seq 16512697)
+[06.02.2017 17:47:31] Lost Connection (slot #1) 124.43.93.155:28960 6eb820eda9d919afa06e9546b445d4f9(VALID) [KR] RebelXX
+[06.02.2017 18:09:41] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 18:46:30] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 19:23:20] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 20:00:09] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 20:36:58] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 21:13:47] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 21:50:36] pb_sv_GuidRelax = 7 (0 to 7)
+[06.02.2017 22:27:25] pb_sv_GuidRelax = 7 (0 to 7)
